@@ -1,2 +1,2 @@
 # publicAscialpiTEF
-Repositorio Público Proyectos TEF
+Repositorio Público para Proyectos de TEF
