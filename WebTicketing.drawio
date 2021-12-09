@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T20:46:55.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="79eQ5p43l-zi3xSkpIzE" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T20:47:15.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="3e0zb-_kKrd6PP-veKg0" version="15.9.4" type="github">
   <diagram id="kzgOf68wSGbUfHz-_0Cc" name="Page-1">
     <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -43,6 +43,9 @@
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-59" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Obtener Representante para Caso&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1580" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1580" y="840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-60" value="Crear Caso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-5" target="LpdoW_9JMqIotmGDeJkZ-50" edge="1">
