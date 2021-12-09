@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T19:50:51.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="kIbS9RfIrSWcXK_MXufD" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T19:57:18.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="RBhKjtdMQtckC-PtPbiF" version="15.9.4" type="github">
   <diagram id="kzgOf68wSGbUfHz-_0Cc" name="Page-1">
     <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-58" value="Aplicaciones de Soporte a Atención x RRSS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="350" width="330" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-57" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Ecosistema TEF&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="350" width="930" height="690" as="geometry" />
+        </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-10" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Canales de Contacto&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="900" y="350" width="260" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-1" target="LpdoW_9JMqIotmGDeJkZ-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-1" value="Redes Sociales" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="950" y="530" width="160" height="60" as="geometry" />
@@ -24,6 +33,19 @@
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-2" value="Cliente Corporativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="580" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-59" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Obtener Representante para Caso&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-60" value="Generar Caso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-5" target="LpdoW_9JMqIotmGDeJkZ-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="910" />
+              <mxPoint x="2320" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-5" value="Self-Care/E-Care" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="950" y="800" width="160" height="60" as="geometry" />
         </mxCell>
@@ -33,7 +55,7 @@
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-7" value="Ejecutivo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="800" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LpdoW_9JMqIotmGDeJkZ-11" value="Motor de Reglas &lt;br&gt;Ticketing B2B" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-11" value="Motor de Reglas &lt;br&gt;Ticketing B2B" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1615" y="660" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-12" target="LpdoW_9JMqIotmGDeJkZ-11">
@@ -76,27 +98,29 @@
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-52" value="Generar Caso&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=halfCircle;endFill=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-31" target="LpdoW_9JMqIotmGDeJkZ-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1940" y="510" />
-              <mxPoint x="1940" y="745" />
+              <mxPoint x="2000" y="590" />
+              <mxPoint x="2000" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpdoW_9JMqIotmGDeJkZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-31" target="LpdoW_9JMqIotmGDeJkZ-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" target="LpdoW_9JMqIotmGDeJkZ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="490" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-31" value="Social Media Monitoring &lt;br&gt;&amp;amp; Engagement Platform" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="390" width="190" height="200" as="geometry" />
+          <mxGeometry x="1380" y="390" width="190" height="220" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-33" target="LpdoW_9JMqIotmGDeJkZ-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-33" value="Analizar Reclamo" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="399" width="130" height="30" as="geometry" />
+          <mxGeometry x="1650" y="401" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-35" value="Obtener Datos para Generar Caso" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1650" y="475" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LpdoW_9JMqIotmGDeJkZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.825;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-37" target="LpdoW_9JMqIotmGDeJkZ-31">
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-37" target="LpdoW_9JMqIotmGDeJkZ-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-37" value="Monitorea las Redes Sociales. Determina si se trata de Reclamo. Orquesta (no implementa) la obtención de datos para generar el Caso y generación del Caso." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
@@ -110,18 +134,18 @@
             <mxPoint x="1395" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpdoW_9JMqIotmGDeJkZ-40" value="Del Reclamo al Caso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="445" width="60" height="30" as="geometry" />
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-40" value="Del Reclamo al Caso" style="text;html=1;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="446" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-43" value="Fast Data TEF" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="2034" y="415" width="136" height="60" as="geometry" />
+          <mxGeometry x="2034" y="416" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-44" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="435" width="20" height="20" as="geometry" />
+          <mxGeometry x="1990" y="436" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-45" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2050" y="445" as="targetPoint" />
+            <mxPoint x="2050" y="446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-49" value="Case Management" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
