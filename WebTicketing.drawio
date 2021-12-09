@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T19:25:44.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="15.9.4" etag="m_OHu8KVrH1klWGGMyka" type="github"><diagram id="kzgOf68wSGbUfHz-_0Cc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T19:32:49.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="CUggsHcxccoRbZnNTrw9" version="15.9.4" type="github">
+  <diagram id="kzgOf68wSGbUfHz-_0Cc" name="Page-1">
+    <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-10" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Canales de Contacto&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="900" y="350" width="260" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-1" value="Redes Sociales" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="950" y="530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-2" target="LpdoW_9JMqIotmGDeJkZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-4" value="Informar Reclamo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LpdoW_9JMqIotmGDeJkZ-3">
+          <mxGeometry x="-0.107" relative="1" as="geometry">
+            <mxPoint x="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-6" value="Informar Reclamo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-2" target="LpdoW_9JMqIotmGDeJkZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-2" value="Cliente Corporativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-5" value="Self-Care/E-Care" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="950" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-9" value="IInformar Reclamo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-7" target="LpdoW_9JMqIotmGDeJkZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpdoW_9JMqIotmGDeJkZ-7" value="Ejecutivo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
