@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T20:48:51.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="NJgp3J4PeCV_7LHDcGgL" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T21:02:18.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Bq6Ls8dbY_3f2_8FZHWD" version="15.9.4" type="github">
   <diagram id="kzgOf68wSGbUfHz-_0Cc" name="Page-1">
-    <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-57" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Ecosistema TEF&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="350" width="930" height="690" as="geometry" />
+          <mxGeometry x="1930" y="350" width="930" height="860" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-58" value="Aplicaciones de Soporte a Atención x RRSS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1310" y="350" width="330" height="300" as="geometry" />
@@ -40,29 +40,24 @@
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-2" value="Cliente Corporativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="580" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LpdoW_9JMqIotmGDeJkZ-59" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Obtener Representante para Caso&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1580" y="780" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1580" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-60" value="Crear Caso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-5" target="LpdoW_9JMqIotmGDeJkZ-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1030" y="910" />
-              <mxPoint x="2320" y="910" />
+              <mxPoint x="1030" y="1100" />
+              <mxPoint x="2320" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zNlmrGA9Vb_LrglZSPZl-7" value="Consultar Caso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=halfCircle;endFill=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-5" target="zNlmrGA9Vb_LrglZSPZl-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1030" y="970" />
-              <mxPoint x="2434" y="970" />
+              <mxPoint x="1030" y="1140" />
+              <mxPoint x="2434" y="1140" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zNlmrGA9Vb_LrglZSPZl-23" value="Obtener Representante &lt;br&gt;para Caso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=halfCircle;endFill=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-5" target="LpdoW_9JMqIotmGDeJkZ-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-5" value="Self-Care/E-Care" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="950" y="750" width="160" height="180" as="geometry" />
@@ -77,33 +72,31 @@
           <mxGeometry x="2920" y="560" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-11" value="Motor de Reglas &lt;br&gt;Ticketing B2B" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1615" y="660" width="160" height="200" as="geometry" />
+          <mxGeometry x="1985" y="790" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-12" target="LpdoW_9JMqIotmGDeJkZ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-12" value="Lógica de Carterización" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1815" y="669" width="80" height="30" as="geometry" />
+          <mxGeometry x="2185" y="799" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-14" target="LpdoW_9JMqIotmGDeJkZ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-14" value="Lógica de Reemplazos" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1815" y="745" width="80" height="30" as="geometry" />
+          <mxGeometry x="2185" y="875" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.825;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;dashed=1;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-16" target="LpdoW_9JMqIotmGDeJkZ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-16" value="Servicio: Data la información de Contexto, la lógica de carterización y de reemplazos, obtener el representante que debe atender un Caso." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1815" y="800" width="300" height="50" as="geometry" />
+          <mxGeometry x="2185" y="930" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zNlmrGA9Vb_LrglZSPZl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.11;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-19" target="LpdoW_9JMqIotmGDeJkZ-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-19" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="755" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LpdoW_9JMqIotmGDeJkZ-20" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1629.9999999999998" y="765" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1940" y="885" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-46" value="Obtener Datos para Caso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-31" target="LpdoW_9JMqIotmGDeJkZ-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -112,9 +105,6 @@
               <mxPoint x="1610" y="445" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LpdoW_9JMqIotmGDeJkZ-48" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Obtener Representante para Caso&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-31" target="LpdoW_9JMqIotmGDeJkZ-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-52" value="Crear Caso&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=halfCircle;endFill=0;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-31" target="LpdoW_9JMqIotmGDeJkZ-50" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -127,6 +117,14 @@
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" target="LpdoW_9JMqIotmGDeJkZ-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1570" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNlmrGA9Vb_LrglZSPZl-24" value="Obtener Representante &lt;br&gt;para Caso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=halfCircle;endFill=0;" edge="1" parent="1" source="LpdoW_9JMqIotmGDeJkZ-31" target="LpdoW_9JMqIotmGDeJkZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1475" y="680" />
+              <mxPoint x="1950" y="680" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LpdoW_9JMqIotmGDeJkZ-31" value="Social Media Monitoring &lt;br&gt;&amp;amp; Engagement Platform" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
