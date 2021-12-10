@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T14:59:57.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Rb9LzvLKeUJMdTQ8KfI4" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T15:00:09.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="cPKIEfRlkl1d00fyU9cV" version="15.9.4" type="github">
   <diagram id="kzgOf68wSGbUfHz-_0Cc" name="Page-1">
     <mxGraphModel dx="1073" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="zNlmrGA9Vb_LrglZSPZl-1" value="Consultar Estado &lt;br&gt;de Reclamo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpdoW_9JMqIotmGDeJkZ-2" target="LpdoW_9JMqIotmGDeJkZ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="820" />
+              <mxPoint x="735" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
