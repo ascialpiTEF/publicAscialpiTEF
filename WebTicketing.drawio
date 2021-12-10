@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T14:51:11.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="nj2RbcHpUxJdiFLolN5j" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T14:51:24.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="FmgkPYIs5Ras1NWiK-yc" version="15.9.4" type="github">
   <diagram id="kzgOf68wSGbUfHz-_0Cc" name="Page-1">
     <mxGraphModel dx="1853" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wRriMQukIgQcQXov5gLd-6" value="Carterización Hoy: Excel Lista 48 que se actualiza 1 vez x día. Se lo suministran a BI BI lo carga en la BBDD que utiliza el BOT Cognitivo.&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Averiguar: ¿El master de la info es Gestión Proactiva y de ahí la distribuyen? ¿En GP se genera mediante un proceso automático con inteligencia adicional o solo una subida de archivos? De ser así, el Motor implementaría en una arquitectura aggiornada casos de uso que hoy están en GP.&lt;br&gt;¿Salesforce lo podría resolver mediante la exposición de un Servicio? ¿En Salesforce está&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1190" width="270" height="200" as="geometry" />
+          <mxGeometry x="1970" y="1170" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wRriMQukIgQcQXov5gLd-9" value="Backend Digital" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#333333;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1890" y="750" width="380" height="260" as="geometry" />
