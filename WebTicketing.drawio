@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T15:58:27.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="5lYkyxD4Qt72vM1nXt9j" version="15.9.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-10T15:58:41.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="HkWuMgfrXO-TItn-jtVa" version="15.9.4" type="github" pages="2">
   <diagram id="kzgOf68wSGbUfHz-_0Cc" name="Page-1">
     <mxGraphModel dx="1073" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
           <mxGeometry x="1805" y="800" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vs6aGQMoa5u0QKIRv44w-3" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;ARG - B2B - Gestión de Reclamos - Arquitectura de Referencia - Draft&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;Arquitectura propuesta para resolver la Gestión de Reclamos de los Clientes B2B en Argentina.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;Estado: Draft&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="360" height="170" as="geometry" />
+          <mxGeometry x="100" y="60" width="450" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
