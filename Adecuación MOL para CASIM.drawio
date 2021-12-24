@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T14:47:39.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ButSFBeOSYJT0-PozDsF" version="16.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-24T14:55:06.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-N9KB3YdTSuk28oi4gb-" version="16.0.3" type="github" pages="2">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="w6IIjpoD_KzSY06O35H7-4" value="Infraestructura de Integración (ESB)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1670" y="360" width="260" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="mUYEuQ-Zw5E5xDJphFfR-0" value="Server Backend MOL (Aplicación en premisas de Movistar)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
-          <mxGeometry x="1050" y="210" width="500" height="720" as="geometry" />
+        <mxCell id="mUYEuQ-Zw5E5xDJphFfR-0" value="Server Backend MOL (Aplicación en Infra de Movistar)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="1050" y="210" width="530" height="730" as="geometry" />
         </mxCell>
         <mxCell id="R40aASBweC8_d7rtl6a5-5" value="Informar Carga de Tarjetas en MOL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=halfCircle;endFill=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-19" target="R40aASBweC8_d7rtl6a5-1">
           <mxGeometry relative="1" as="geometry">
@@ -146,12 +146,12 @@
           <mxGeometry x="110" y="375" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="R40aASBweC8_d7rtl6a5-0" value="Gestor Stock SIM MOLs" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
-          <mxGeometry x="1120" y="430" width="200" height="60" as="geometry" />
+          <mxGeometry x="1120" y="430" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R40aASBweC8_d7rtl6a5-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="R40aASBweC8_d7rtl6a5-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1080" y="450" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R40aASBweC8_d7rtl6a5-2" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="R40aASBweC8_d7rtl6a5-1" target="R40aASBweC8_d7rtl6a5-0">
+        <mxCell id="R40aASBweC8_d7rtl6a5-2" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="R40aASBweC8_d7rtl6a5-1" target="R40aASBweC8_d7rtl6a5-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R40aASBweC8_d7rtl6a5-7" value="&lt;h1&gt;Adecuación de MOLs para Cambio de SIM&lt;/h1&gt;&lt;p&gt;Arquitectura de Referencia&lt;/p&gt;&lt;p&gt;Estado: Draft&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#001933;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
@@ -213,7 +213,7 @@
             <mxPoint x="1127" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JmTa73SOpoFU49lxjMe-19" value="Web de Gestión" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="3JmTa73SOpoFU49lxjMe-19" value="Portal de Gestión" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1120" y="280" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-20" value="Ver si hay algún servicio que valide por DNI. El que se definió para MOL es por Línea (ANI)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#e51400;strokeColor=#B20000;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
@@ -233,6 +233,14 @@
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-22" value="Gestor de Configuraciones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=15;fontColor=#001933;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="820" y="70" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-46" value="Actualizar stock" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-26" target="3JmTa73SOpoFU49lxjMe-44">
+          <mxGeometry x="0.3184" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Verdana;fontSize=13;fontColor=#001933;endArrow=classic;endFill=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-26" target="3JmTa73SOpoFU49lxjMe-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-26" value="Registrar Entrega" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1120" y="760" width="200" height="60" as="geometry" />
@@ -259,6 +267,30 @@
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-41" value="Seguridad Aplicativa para Web de Gestión&lt;br&gt;(A Definir)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="690" y="320" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-44" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="1430" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-45" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-44" target="R40aASBweC8_d7rtl6a5-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;fontFamily=Verdana;fontSize=13;fontColor=#001933;endArrow=classic;endFill=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-47" target="3JmTa73SOpoFU49lxjMe-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Verdana;fontSize=13;fontColor=#001933;endArrow=classic;endFill=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-47" target="3JmTa73SOpoFU49lxjMe-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-47" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px&quot;&gt;Registro de Operaciones&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="1440" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-50" value="Consultar Operaciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="1120" y="860" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
