@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T14:55:47.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="W-bQflbgfZWkG_FzbxgU" version="16.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-24T14:58:10.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qOQ6PpJkSXM0q5VuNh1C" version="16.0.3" type="github" pages="2">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -145,7 +145,15 @@
         <mxCell id="5eayR_HnQmOS0voMf0e5-5" value="Responsable Carga &lt;br&gt;Tarjetas CEC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=15;fontColor=#001933;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="110" y="375" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="R40aASBweC8_d7rtl6a5-0" value="Gestor Stock SIM MOLs" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="3JmTa73SOpoFU49lxjMe-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Verdana;fontSize=13;fontColor=#001933;endArrow=classic;endFill=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="R40aASBweC8_d7rtl6a5-0" target="3JmTa73SOpoFU49lxjMe-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="460" />
+              <mxPoint x="1410" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R40aASBweC8_d7rtl6a5-0" value="Servicio Gestor Stock SIM MOLs" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1120" y="430" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R40aASBweC8_d7rtl6a5-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
@@ -166,7 +174,7 @@
         <mxCell id="3JmTa73SOpoFU49lxjMe-13" value="Identify Customer" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=halfCircle;endFill=0;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="w6IIjpoD_KzSY06O35H7-3" target="3JmTa73SOpoFU49lxjMe-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w6IIjpoD_KzSY06O35H7-3" value="Validar Cliente" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="w6IIjpoD_KzSY06O35H7-3" value="Servicio Validador de Cliente" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1120" y="520" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w6IIjpoD_KzSY06O35H7-6" value="CRM" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
@@ -202,7 +210,7 @@
             <mxPoint x="1746" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JmTa73SOpoFU49lxjMe-14" value="Validar Reglas de Negocio" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="3JmTa73SOpoFU49lxjMe-14" value="Servicio Validador &lt;br&gt;Reglas de Negocio" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1120" y="640" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-15" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
@@ -222,13 +230,13 @@
         <mxCell id="3JmTa73SOpoFU49lxjMe-21" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Validar Reglas de Negocio:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;p style=&quot;color: rgb(0 , 0 , 0) ; margin: 0px ; line-height: 12.65pt&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span lang=&quot;es-MX&quot; style=&quot;font-style: inherit ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; line-height: inherit ; color: inherit ; margin: 0px ; padding: 0px ; border: 1pt none ; vertical-align: baseline&quot;&gt;Validar cantidad de operaciones que ese DNI hizo en el día.&lt;/span&gt;&lt;span style=&quot;font-style: inherit ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; line-height: inherit ; color: inherit ; margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;color: rgb(0 , 0 , 0) ; margin: 0px&quot;&gt;&lt;span lang=&quot;es-MX&quot; style=&quot;margin: 0px ; padding: 0px ; border: 1pt none ; font-style: inherit ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; line-height: inherit ; vertical-align: baseline ; color: inherit&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;-&amp;nbsp;Si es menos a &quot;n&quot;&amp;nbsp;(el &quot;n&quot; debe ser un valor configurable), la operación es válida.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;color: rgb(0 , 0 , 0) ; margin: 0px&quot;&gt;&lt;span lang=&quot;es-MX&quot; style=&quot;font-style: inherit ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; line-height: inherit ; margin: 0px ; padding: 0px ; border: 1pt none ; vertical-align: baseline ; color: inherit&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;-&amp;nbsp;Si es mayor (¿o igual?) a “n”, no permitir un mensaje de error (a definir) la operación no es válida.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1010" y="990" width="310" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="3JmTa73SOpoFU49lxjMe-23" value="Configurar Cantidad de Extracciones por Día" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=classic;endFill=1;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-22" target="3JmTa73SOpoFU49lxjMe-19">
-          <mxGeometry x="-0.65" y="100" relative="1" as="geometry">
+        <mxCell id="3JmTa73SOpoFU49lxjMe-23" value="Configurar Datos Paramétricos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=classic;endFill=1;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-22" target="3JmTa73SOpoFU49lxjMe-19">
+          <mxGeometry x="-0.6" y="40" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="950" y="140" />
               <mxPoint x="950" y="310" />
             </Array>
-            <mxPoint y="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-22" value="Gestor de Configuraciones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=15;fontColor=#001933;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
@@ -242,7 +250,7 @@
         <mxCell id="3JmTa73SOpoFU49lxjMe-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Verdana;fontSize=13;fontColor=#001933;endArrow=classic;endFill=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-26" target="3JmTa73SOpoFU49lxjMe-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3JmTa73SOpoFU49lxjMe-26" value="Registrar Entrega" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="3JmTa73SOpoFU49lxjMe-26" value="Servicio Registrador &lt;br&gt;de Entrega" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1120" y="760" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-30" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
@@ -289,8 +297,11 @@
         <mxCell id="3JmTa73SOpoFU49lxjMe-47" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px&quot;&gt;Registro de Operaciones&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1440" y="820" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3JmTa73SOpoFU49lxjMe-50" value="Consultar Operaciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="3JmTa73SOpoFU49lxjMe-50" value="Servicio de Consulta &lt;br&gt;de Operaciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1120" y="860" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3JmTa73SOpoFU49lxjMe-52" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px&quot;&gt;Stock de SIMs&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="1420" y="330" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
