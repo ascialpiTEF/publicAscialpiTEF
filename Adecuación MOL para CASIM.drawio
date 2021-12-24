@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T14:19:52.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eOduBSFpChB4f57RFGKU" version="16.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-24T14:47:39.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ButSFBeOSYJT0-PozDsF" version="16.0.3" type="github" pages="2">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -223,11 +223,12 @@
           <mxGeometry x="1010" y="990" width="310" height="220" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-23" value="Configurar Cantidad de Extracciones por Día" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=classic;endFill=1;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-22" target="3JmTa73SOpoFU49lxjMe-19">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.65" y="100" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="950" y="140" />
               <mxPoint x="950" y="310" />
             </Array>
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-22" value="Gestor de Configuraciones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=15;fontColor=#001933;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
@@ -257,7 +258,7 @@
           <mxGeometry x="380" y="1340" width="480" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-41" value="Seguridad Aplicativa para Web de Gestión&lt;br&gt;(A Definir)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
-          <mxGeometry x="460" y="155" width="270" height="90" as="geometry" />
+          <mxGeometry x="690" y="320" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
