@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T19:32:01.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-WYmrztQ41lsugDt8NVW" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T19:33:29.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LLbsvP2SXcaobCfngzV6" version="16.1.0" type="github">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
-    <mxGraphModel dx="1210" dy="7176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2017" dy="7560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="5eayR_HnQmOS0voMf0e5-0" />
         <mxCell id="5eayR_HnQmOS0voMf0e5-1" parent="5eayR_HnQmOS0voMf0e5-0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="856" y="-5670" width="650" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-41" value="Infraestructura de&amp;nbsp;Seguridad Aplicativa &lt;br&gt;para Web de Gestión" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
-          <mxGeometry x="1896" y="-6270" width="270" height="630" as="geometry" />
+          <mxGeometry x="1762" y="-6270" width="270" height="630" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-39" value="Infraestructura de Integración + Seguridad &lt;br&gt;MOL &amp;lt;-&amp;gt; Application Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
           <mxGeometry x="1760" y="-5560" width="270" height="921" as="geometry" />
@@ -224,13 +224,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-26" value="Gestor Operativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
-          <mxGeometry x="1696" y="-5900" width="30" height="60" as="geometry" />
+          <mxGeometry x="1532" y="-5900" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-109" value="Consultar Parámetros" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.079;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-28" target="3JmTa73SOpoFU49lxjMe-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-28" value="Gestor de Configuraciones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
-          <mxGeometry x="1696" y="-6150" width="30" height="60" as="geometry" />
+          <mxGeometry x="1532" y="-6150" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-59" value="Cargar Tarjetas" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-29" target="dIKc5v8BZI6Udmt_FtRK-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -277,7 +277,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-39" value="&lt;span style=&quot;color: rgb(0 , 25 , 51)&quot;&gt;Gestor Carga&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 25 , 51)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 25 , 51)&quot;&gt;Tarjetas&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
-          <mxGeometry x="1696" y="-6040" width="30" height="60" as="geometry" />
+          <mxGeometry x="1532" y="-6040" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-55" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
           <mxGeometry x="2267" y="-5406" width="20" height="20" as="geometry" />
