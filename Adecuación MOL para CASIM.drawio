@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T18:42:51.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SgSTREbB-eYNO-zjaLrA" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T18:53:42.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1dfN4p7HRA3RFm9kNxHo" version="16.1.0" type="github">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
     <mxGraphModel dx="1199" dy="7179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -97,8 +97,8 @@
             <mxPoint x="2117" y="-5392" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JmTa73SOpoFU49lxjMe-55" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px&quot;&gt;Registrar Configuración&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Verdana;fontSize=13;fontColor=#001933;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-37" edge="1">
-          <mxGeometry x="0.326" y="45" relative="1" as="geometry">
+        <mxCell id="3JmTa73SOpoFU49lxjMe-55" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px&quot;&gt;Registrar Configuración/&lt;br&gt;Parámetro&lt;br&gt;&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Verdana;fontSize=13;fontColor=#001933;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-37" edge="1">
+          <mxGeometry x="0.3726" y="1" relative="1" as="geometry">
             <mxPoint x="2790" y="-5730" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -106,7 +106,7 @@
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=classic;startFill=1;endArrow=classic;endFill=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-19" target="dIKc5v8BZI6Udmt_FtRK-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dIKc5v8BZI6Udmt_FtRK-107" value="Consultar Estado de MOLs" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-19" target="dIKc5v8BZI6Udmt_FtRK-105">
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-107" value="Consultar Estado de MOLs" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;strokeColor=#d6b656;fillColor=#fff2cc;exitX=0.037;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-37" target="dIKc5v8BZI6Udmt_FtRK-105">
           <mxGeometry x="-0.7439" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -168,12 +168,15 @@
           <mxGeometry x="2715" y="-5296" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-50" value="Servicio de Consulta &lt;br&gt;de Operaciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
-          <mxGeometry x="2930" y="-5661" width="250" height="60" as="geometry" />
+          <mxGeometry x="3050" y="-5666" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-52" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px&quot;&gt;Registro de SIMs en MOLs&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
           <mxGeometry x="2490" y="-5676" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-54" target="3JmTa73SOpoFU49lxjMe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#d6b656;fillColor=#fff2cc;dashed=1;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="3JmTa73SOpoFU49lxjMe-54" target="dIKc5v8BZI6Udmt_FtRK-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3JmTa73SOpoFU49lxjMe-54" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px&quot;&gt;Registro de Configuraciones&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
@@ -223,6 +226,9 @@
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-26" value="Gestor Operativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1500" y="-6140" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-109" value="Consultar Parámetros" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-28" target="3JmTa73SOpoFU49lxjMe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-28" value="Gestor de Configuraciones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="1500" y="-6390" width="30" height="60" as="geometry" />
         </mxCell>
@@ -248,11 +254,14 @@
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-34" value="Gestor Configuración MOL" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="450" y="-5860" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIKc5v8BZI6Udmt_FtRK-52" value="Consultar Operaciones" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.095;entryY=0.14;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=15;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;entryPerimeter=0;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-37" target="mUYEuQ-Zw5E5xDJphFfR-0">
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-52" value="Consultar Operaciones" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=15;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-37" target="dIKc5v8BZI6Udmt_FtRK-85">
           <mxGeometry x="0.3035" y="32" relative="1" as="geometry">
             <mxPoint x="3140" y="-5705" as="targetPoint" />
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-118" value="Consultar Configuraciones/&lt;br&gt;Parámetros" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-37" target="dIKc5v8BZI6Udmt_FtRK-115">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-37" value="Portal de Gestión - BFF" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="2495" y="-6272.5" width="340" height="192.5" as="geometry" />
@@ -300,13 +309,13 @@
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-78" value="&lt;b&gt;Validar Cliente:&lt;/b&gt; &quot;Se valida a través de T3, utilizará únicamente para las operaciones de CASIM y repo por robo. Estas operaciones alcanzan únicamente a clientes.&quot;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="2010" y="-4840" width="430" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="dIKc5v8BZI6Udmt_FtRK-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Helvetica;fontSize=15;fontColor=#FF0000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#d6b656;fillColor=#fff2cc;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-79" target="3JmTa73SOpoFU49lxjMe-54">
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Helvetica;fontSize=15;fontColor=#FF0000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-79" target="3JmTa73SOpoFU49lxjMe-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2775" y="-5567" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIKc5v8BZI6Udmt_FtRK-79" value="Servicio Gestor Registro &lt;br&gt;de Configuraciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
-          <mxGeometry x="2650" y="-5661" width="250" height="60" as="geometry" />
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-79" value="Servicio Registrador de &lt;br&gt;Configuraciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="2650" y="-5661" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-81" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="2780" y="-5725" width="20" height="20" as="geometry" />
@@ -317,11 +326,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-85" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
-          <mxGeometry x="3080" y="-5725" width="20" height="20" as="geometry" />
+          <mxGeometry x="3170" y="-5740" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-86" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3090" y="-5656" as="targetPoint" />
+            <mxPoint x="3180" y="-5671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-104" value="Consultar Estado de MOL (MOL_ID)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;strokeColor=#000000;dashed=1;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-92" target="dIKc5v8BZI6Udmt_FtRK-101">
@@ -360,6 +369,20 @@
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-108" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; margin-bottom: 0.0001pt ; line-height: normal ; vertical-align: baseline&quot;&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;&lt;b&gt;Portal para la&amp;nbsp;Gestión centralizada de las terminales MOL.&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; margin-bottom: 0.0001pt ; line-height: normal ; vertical-align: baseline&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; margin-bottom: 0.0001pt ; line-height: normal ; vertical-align: baseline&quot;&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;Este Oortal&amp;nbsp;deberá ser accesible a los diferentes niveles de usuario, para&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt&quot;&gt;obtener el&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt&quot;&gt;estado de cada terminal&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt&quot;&gt;conocer y poder&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt&quot;&gt;modificar parámetros de las mismas según el rol del usuario y&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt&quot;&gt;poder&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt&quot;&gt;visualizar los datos de las transacciones de expendio de SIM Cards realizados&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;text-indent: -18pt ; border: 1pt none ; padding: 0cm&quot;&gt;en tiempo real. &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt ; border: 1pt none ; padding: 0cm&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; margin-bottom: 0.0001pt ; line-height: normal ; vertical-align: baseline&quot;&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;Deberá tener&amp;nbsp;una pantalla inicial de ingreso al sistema, gestionado mediante Access Manager&amp;nbsp;para reconocer el usuario ingresado y su rol asociado.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; margin-bottom: 0.0001pt ; line-height: normal ; vertical-align: baseline&quot;&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;En función del&amp;nbsp; rol del usuario se habilitará funcionalidad específica, ya sea para consulta o actualización de datos. Estos roles deben tener tres niveles diferentes: no&amp;nbsp;visible, sólo de lectura y roles que podrán leer/modificar.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;strokeColor=#d6b656;fillColor=#fff2cc;align=left;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="2560" y="-4840" width="550" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-112" value="Servicio de Consulta&lt;br&gt;de Configuraciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="2850" y="-5661" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-115" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="2970" y="-5725" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-116" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="5eayR_HnQmOS0voMf0e5-1" source="dIKc5v8BZI6Udmt_FtRK-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2980.4117647058824" y="-5661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIKc5v8BZI6Udmt_FtRK-119" value="&lt;div&gt;&lt;b&gt;Consultar Configuraciones/Parámetros: &lt;/b&gt;V&lt;span&gt;isualizar y/o modificar datos del MOL tales como: Número de CEC, IP, Contactos referentes de la terminal, Versión de software, Ubicación geográfica, Región, etc.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Seguridad por rol:&lt;/b&gt; Consulta, Modificación, etc.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Cantidad máxima diaria de SIM Cards permitida por DNI:&lt;/b&gt; Esta configuración aplicaría a todos los MOLs (es decir, es información centralizada, no a nivel MOL).&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;strokeColor=#d6b656;fillColor=#fff2cc;align=left;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+          <mxGeometry x="2560" y="-4520" width="560" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
