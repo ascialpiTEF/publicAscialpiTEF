@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T12:49:38.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="C43nt0jCpfHAgADmIaob" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T12:50:32.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VczipF1icGePwdKwbUzZ" version="16.1.0" type="github">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
     <mxGraphModel dx="1199" dy="7253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -208,10 +208,10 @@
           <mxGeometry x="740" y="-5710" width="190" height="470" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-5" value="Almacenamiento Local MOL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
-          <mxGeometry x="850" y="-5155" width="140" height="80" as="geometry" />
+          <mxGeometry x="870" y="-5160" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-9" value="Dispensador de Tarjetas" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
-          <mxGeometry x="750" y="-4985" width="170" height="60" as="geometry" />
+          <mxGeometry x="737" y="-4985" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIKc5v8BZI6Udmt_FtRK-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ccfinfotech.com/wp-content/uploads/2019/05/kisspng-vector-graphics-kiosk-illustration-stock-photograp-5c8d31931783c8.5258409115527571390963.png;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="590" y="-6590" width="520" height="421" as="geometry" />
