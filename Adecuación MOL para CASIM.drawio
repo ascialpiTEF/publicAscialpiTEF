@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T18:19:14.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="FHkmz8SpdzirTXsqS1Rb" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T18:19:26.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YytVwAe5Bp0-bSVj3NTF" version="16.1.2" type="github">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
     <mxGraphModel dx="1019" dy="7155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -404,7 +404,7 @@
         <mxCell id="SUdvLJOZSSrTkpP6ne-1-3" value="Dispensador de SIM Cards (+Boca)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
           <mxGeometry x="891" y="-4790" width="149" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xTeFWfA6sjYRDvqjyPl4-0" value="&lt;font color=&quot;#ff0000&quot;&gt;Como Arquitectura debemos reflexionar sobre la mejor práctica sobre la aplicación que ejecute el MOL. Que sea local o remota (por ejemplo, una aplicación web). ¿Es factible técnicamente? La aplicación Web debería interactuar con el hardware del MOL para entregar la SIM Card.&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="xTeFWfA6sjYRDvqjyPl4-0" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px&quot;&gt;Como Arquitectura debemos reflexionar sobre la mejor práctica sobre la aplicación que ejecute el MOL. Que sea local o remota (por ejemplo, una aplicación web). ¿Es factible técnicamente? La aplicación Web debería interactuar con el hardware del MOL para entregar la SIM Card.&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
           <mxGeometry x="720" y="-4320" width="330" height="160" as="geometry" />
         </mxCell>
       </root>
