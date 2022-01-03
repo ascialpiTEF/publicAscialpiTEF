@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T17:23:06.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HIp9Zj7sbp8lmDW7zmf6" version="16.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-03T17:23:26.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zFz5e7N2wDZBVWbjBmPj" version="16.1.2" type="github" pages="2">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
     <mxGraphModel dx="1456" dy="7393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -655,7 +655,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-70" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
-          <mxGeometry x="659" y="-3559" width="30" height="60" as="geometry" />
+          <mxGeometry x="300" y="-3690" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-71" value="Configurar MOL" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.057;entryY=0.127;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-72" target="iASgeHcGWp-CYFPEOIh1-125">
           <mxGeometry relative="1" as="geometry">
