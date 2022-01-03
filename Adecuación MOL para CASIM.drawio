@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T19:47:25.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nXO3CbELD7Is6UiBJZ57" version="16.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-03T20:00:24.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SES7euv_M_EqxzUPkeqh" version="16.1.4" type="github" pages="2">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
-    <mxGraphModel dx="1698" dy="7525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="7092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="5eayR_HnQmOS0voMf0e5-0" />
         <mxCell id="5eayR_HnQmOS0voMf0e5-1" parent="5eayR_HnQmOS0voMf0e5-0" />
@@ -407,7 +407,7 @@
         <mxCell id="xTeFWfA6sjYRDvqjyPl4-0" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px&quot;&gt;Como Arquitectura debemos reflexionar la aplicación que ejecute el MOL. ¿Debe ser obligatoriamente local o puede ser remota? En caso de remota ¿Podría ser una aplicación Web? ¿Es factible técnicamente? La aplicación Web debería interactuar con el hardware del MOL para entregar la SIM Card.&amp;nbsp;&lt;br&gt;En caso de poder ser una aplicación web ¿Podría ser la Web de Movistar? Esto permitiría que el Cliente se conecte allí con su usuario y clave. Se debería agregar a la Web de Movistar una opción de Pedido de SIM en MOL.&lt;br&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
           <mxGeometry x="720" y="-4320" width="330" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="ECHvqfhriumV5mkQivGb-1" value="En MOL se ejecutan: &lt;br&gt;1 Cliente Web&lt;br&gt;1 Demonio propietario&lt;br&gt;&lt;br&gt;Que el browser no muestre la URL" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5eayR_HnQmOS0voMf0e5-1">
+        <mxCell id="ECHvqfhriumV5mkQivGb-1" value="En MOL se ejecutan: &lt;br&gt;1 Cliente Web&lt;br&gt;1 Demonio propietario&lt;br&gt;&lt;br&gt;Que el browser no muestre la URL" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="5eayR_HnQmOS0voMf0e5-1" vertex="1">
           <mxGeometry x="1115" y="-4120" width="365" height="120" as="geometry" />
         </mxCell>
       </root>
