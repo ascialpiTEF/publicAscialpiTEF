@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T19:07:52.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VEkSS23GBDxw-ix7__yj" version="16.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-03T19:47:25.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nXO3CbELD7Is6UiBJZ57" version="16.1.2" type="github" pages="2">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
-    <mxGraphModel dx="1456" dy="7393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1698" dy="7525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="5eayR_HnQmOS0voMf0e5-0" />
         <mxCell id="5eayR_HnQmOS0voMf0e5-1" parent="5eayR_HnQmOS0voMf0e5-0" />
@@ -414,7 +414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Arquitectura de Referencia-Alt2" id="oe0Hr_IsOjntgO0mVbio">
-    <mxGraphModel dx="1698" dy="7525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="7253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-0" />
         <mxCell id="iASgeHcGWp-CYFPEOIh1-1" parent="iASgeHcGWp-CYFPEOIh1-0" />
@@ -453,9 +453,6 @@
             <mxPoint x="2376" y="-4039" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-11" value="Validar Reglas de Negocio (DNI)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-27">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-12" value="Entregar SIM" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=classic;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-114" target="iASgeHcGWp-CYFPEOIh1-70">
           <mxGeometry relative="1" as="geometry" />
@@ -608,25 +605,27 @@
         <mxCell id="iASgeHcGWp-CYFPEOIh1-53" value="Front-End" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
           <mxGeometry x="2594" y="-5539" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-56" value="Validar Cliente (DNI)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=15;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-57" value="Registrar Entrega de SIM (DNI, ICCID, MOL_ID,fechaEntrega)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=15;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2269" y="-3552" as="targetPoint" />
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-56" value="&lt;font color=&quot;#ff0000&quot;&gt;Validar Cliente (DNI) o Token&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=15;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-19">
+          <mxGeometry x="-0.8817" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-58" value="Registrar Carga de Tarjetas (Automatizado)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=15;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-78">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-57" value="Registrar Entrega de SIM &lt;br&gt;(DNI, Token, ICCID, MOL_ID,fechaEntrega)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=15;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-39">
+          <mxGeometry x="-0.7907" y="110" relative="1" as="geometry">
+            <mxPoint x="2269" y="-3552" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2770" y="-4910" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-58" value="Registrar Carga de Tarjetas &lt;br&gt;(Automatizado)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=15;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-78">
+          <mxGeometry x="-0.7708" y="-91" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-59" value="Backend for Front-End" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
           <mxGeometry x="2594" y="-5309" width="190" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-60" value="Almacenamiento Local MOL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
-          <mxGeometry x="2724" y="-4839" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ccfinfotech.com/wp-content/uploads/2019/05/kisspng-vector-graphics-kiosk-illustration-stock-photograp-5c8d31931783c8.5258409115527571390963.png;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
           <mxGeometry x="790" y="-6250" width="520" height="421" as="geometry" />
@@ -652,7 +651,7 @@
         <mxCell id="iASgeHcGWp-CYFPEOIh1-68" value="&lt;span style=&quot;color: rgb(0 , 25 , 51)&quot;&gt;Gestor Carga&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 25 , 51)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 25 , 51)&quot;&gt;Tarjetas&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
           <mxGeometry x="659" y="-3834" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-69" value="Solicitar SIM (DNI)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-70" target="iASgeHcGWp-CYFPEOIh1-125">
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-69" value="Solicitar SIM (DNI o Token)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-70" target="iASgeHcGWp-CYFPEOIh1-125">
           <mxGeometry x="-0.3432" y="22" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -719,8 +718,8 @@
         <mxCell id="iASgeHcGWp-CYFPEOIh1-85" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; margin-bottom: 0.0001pt ; line-height: normal ; vertical-align: baseline&quot;&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;&lt;b&gt;Solicitar SIM: &lt;/b&gt;El cliente&amp;nbsp;tocará la pantalla, y aparecerá un botón&amp;nbsp; que diga &quot;entrega/solicitud de SIM Cards&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; margin-bottom: 0.0001pt ; line-height: normal ; vertical-align: baseline&quot;&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;Cuando el&amp;nbsp;cliente toque dicho botón, se habilita una pantalla que le indicará&amp;nbsp;&quot;ingrese su nro de DNI&quot;, los botones con los nros, los botones&amp;nbsp;&quot;aceptar&quot;/&quot;cancelar&quot; y&amp;nbsp;el espacio donde se irá&amp;nbsp;completando el nro a medida que el cliente lo vaya tipeando.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm ; margin-bottom: 0.0001pt ; line-height: 12.65pt ; vertical-align: baseline&quot;&gt;&lt;span lang=&quot;ES-MX&quot; style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;Cuando el&amp;nbsp;cliente le da aceptar, el DNI ingresado se verificará.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border: none 1.0pt ; padding: 0cm&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;align=left;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
           <mxGeometry x="1158" y="-2959" width="380" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-86" value="&lt;b&gt;Entregar SIM: &lt;/b&gt;Cuando el Cliente retire la SIM de la boca, el dispositivo lo detecta, por lo que podría mostrarse algún mensaje por pantalla, y finalizar la operación.&amp;nbsp;&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
-          <mxGeometry x="1160" y="-2679" width="359" height="150" as="geometry" />
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-86" value="&lt;b&gt;Entregar SIM: &lt;/b&gt;Cuando el Cliente retire la SIM de la boca, el dispositivo lo detecta, por lo que podría mostrarse algún mensaje por pantalla, y finalizar la operación.&amp;nbsp;&lt;br&gt;&lt;br&gt;Debe registrarse la entrega para poder contabilizar la cantidad de SIM entregadas a un Cliente y otros seguimientos que deseen realizarse." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
+          <mxGeometry x="1160" y="-2679" width="359" height="179" as="geometry" />
         </mxCell>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-87" value="&lt;div&gt;&lt;b&gt;Lineamientos e Issues Arquitectura:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MOL Liviano: La menor funcionalidad posible en modo local, la mayor cantidad mediante consumo de servicios.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aplicaciones distinguen de Front-End, Back-End for Front-End y Application Server.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Evaluar esquema de comunicación (API, Mensajería, etc.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contemplar posibles escenarios de fallo:&lt;/div&gt;&lt;div&gt;Evaluar la conveniencia de registrar localmente en el MOL las operaciones, o si no hay comunicación entre MOL y Servidor no permitir operar.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Puntos de fallo posteriores a la entrega de la sim. Almacenamiento local (muy básico) y que cuando se restablezca la comunicación impacte en el servidor.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Otra alternativa sería: registrar todo y recién ahí entregar. ¿qué hacer primero, entregar la tarjeta o registrar? ¿cómo debería reaccionar ante cada tipo de falla?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Errores de lógica:&lt;/div&gt;&lt;div&gt;Si alguna de las validaciones de lógica no se supera, el MOL deberá mostrar un mensaje de error y e impedir continuar la operación.&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=15;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;align=left;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
           <mxGeometry x="369" y="-2959" width="340" height="610" as="geometry" />
@@ -832,12 +831,12 @@
             <mxPoint x="1343" y="-5039" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-124" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Solicitar SIM (DNI)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-125" target="iASgeHcGWp-CYFPEOIh1-53">
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-124" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Solicitar SIM (DNI o Token)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-125" target="iASgeHcGWp-CYFPEOIh1-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1360" y="-4510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-127" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Entregar SIM&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.617;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-125" target="iASgeHcGWp-CYFPEOIh1-114">
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-127" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Entregar SIM&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.617;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-125" target="iASgeHcGWp-CYFPEOIh1-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-125" value="Navegador Web &lt;br&gt;(Browser)" style="shape=component;align=center;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
@@ -846,8 +845,39 @@
         <mxCell id="iASgeHcGWp-CYFPEOIh1-126" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/internet-line/512/Internet_Line-19-128.png" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
           <mxGeometry x="1293" y="-5319" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iASgeHcGWp-CYFPEOIh1-55" value="Entregar SIM" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=none;startFill=0;fillColor=#fff2cc;strokeColor=#d6b656;entryX=1.02;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-125">
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-55" value="Entregar SIM" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=classic;startFill=1;fillColor=#fff2cc;strokeColor=#d6b656;entryX=1.02;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-125">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAF9htnLGsx8ADo7_mNl-0" value="&lt;font color=&quot;#ff0000&quot;&gt;Alternativas de Error:&lt;br&gt;1. Que MOL no conteste las solicitudes.&lt;br&gt;2. Que MOL no pueda entregar la tarjeta (Ej traba de expendedor de tarjetas).&lt;br&gt;3. Que MOL contestó el pedido, pero no informa respuesta de SIM entregada OK o error.&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
+          <mxGeometry x="1160" y="-2460" width="510" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tAF9htnLGsx8ADo7_mNl-4" value="APP Mi Movistar/Web" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
+          <mxGeometry x="250" y="-4370" width="350" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="tAF9htnLGsx8ADo7_mNl-6" value="Solicitar Token" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.308;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#FF0000;startArrow=none;startFill=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-70" target="tAF9htnLGsx8ADo7_mNl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAF9htnLGsx8ADo7_mNl-10" value="Enviar Token" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#FF0000;startArrow=none;startFill=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="tAF9htnLGsx8ADo7_mNl-5" target="iASgeHcGWp-CYFPEOIh1-70">
+          <mxGeometry x="0.1653" y="-2" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="-4000" />
+            </Array>
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAF9htnLGsx8ADo7_mNl-5" value="Gestión Token para Cambio SIM" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
+          <mxGeometry x="300" y="-4270" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAF9htnLGsx8ADo7_mNl-9" value="Ver con Seguridad cómo podría generarse el token en base a qué datos, y si se persiste o no." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
+          <mxGeometry x="250" y="-4600" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iASgeHcGWp-CYFPEOIh1-11" value="Validar Reglas &lt;br&gt;de Negocio (DNI o Token)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="iASgeHcGWp-CYFPEOIh1-1" source="iASgeHcGWp-CYFPEOIh1-59" target="iASgeHcGWp-CYFPEOIh1-27">
+          <mxGeometry x="-0.7982" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAF9htnLGsx8ADo7_mNl-12" value="&lt;font color=&quot;#ff0000&quot;&gt;Estados del Token: Definir si se requiere una &quot;máquina de estados&quot; del token para poder recuperar ante fallos, evitar fraudes, etc.&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iASgeHcGWp-CYFPEOIh1-1">
+          <mxGeometry x="500" y="-4600" width="270" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
