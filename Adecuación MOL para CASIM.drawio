@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T14:24:20.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lgFS7kHcnOLgTbDdGZqw" version="16.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-07T14:25:01.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Lu3iv7Wt1yxLFOFhRrQt" version="16.1.4" type="github" pages="2">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
     <mxGraphModel dx="1019" dy="7155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -414,7 +414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Arquitectura de Referencia-Alt2" id="oe0Hr_IsOjntgO0mVbio">
-    <mxGraphModel dx="1199" dy="7253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="7393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="iASgeHcGWp-CYFPEOIh1-0" />
         <mxCell id="iASgeHcGWp-CYFPEOIh1-1" parent="iASgeHcGWp-CYFPEOIh1-0" />
