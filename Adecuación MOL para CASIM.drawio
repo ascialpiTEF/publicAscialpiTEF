@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T20:44:20.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="V0oTsmGOCjloD41fXNAH" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-17T20:47:29.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="A3RUtoCai83V_Y6UJYeA" version="16.2.7" type="github" pages="5">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia">
     <mxGraphModel dx="1199" dy="7253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1284,7 +1284,7 @@
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-9" value="Validador" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="1980" y="-5590" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JjF0O4iSuW4rj4Z8HxCp-10" value="Averiguar cómo funciona el aviso de bajo nivel de tarjetas.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+        <mxCell id="JjF0O4iSuW4rj4Z8HxCp-10" value="Averiguar con PowerConsultant y Fer cómo funciona el aviso de bajo nivel de tarjetas. A priori pensamos que debería ejecutarse antes que el Cliente ingrese cualquier dato. Quizá un proceso background que revise periódicamente y ponga fuera de servicio al MOL." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="1310" y="-5010" width="290" height="160" as="geometry" />
         </mxCell>
       </root>
