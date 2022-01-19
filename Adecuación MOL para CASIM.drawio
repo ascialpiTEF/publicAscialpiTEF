@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T19:36:43.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="IKPYzui_JSvTC8LUFvqi" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T19:37:37.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QipqqHwz2FUe3gXJAvYa" version="16.2.7" type="github" pages="5">
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia-Sin-Token">
     <mxGraphModel dx="1019" dy="7092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1179,7 +1179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bgNX3_kKcuwJgOPpdPji" name="Arquitectura-Referencia-4">
-    <mxGraphModel dx="5651" dy="7069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6249" dy="7357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="dyHchjEDI-KX5ttm1uXN-0" />
         <mxCell id="dyHchjEDI-KX5ttm1uXN-1" parent="dyHchjEDI-KX5ttm1uXN-0" />
@@ -1290,8 +1290,8 @@
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-10" value="Averiguar con PowerConsultant y Fer cómo funciona el aviso de bajo nivel de tarjetas. A priori pensamos que debería ejecutarse antes que el Cliente ingrese cualquier dato. Quizá un proceso background que revise periódicamente y ponga fuera de servicio al MOL." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-3570" y="-5070" width="290" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2Rxm5Ow7ME32HjApEesM-0" value="&lt;h1&gt;Solicitar SIM - Aplicación Web - Con Token&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;Solicitar SIM - Aplicación Web - Sin Token&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;h1&gt;Solicitar SIM - Aplicación Desktop - Con Token&lt;/h1&gt;&lt;/div&gt;&lt;h1&gt;Solicitar SIM - Aplicación Desktop - Sin Token&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-4600" y="-6560" width="700" height="330" as="geometry" />
+        <mxCell id="2Rxm5Ow7ME32HjApEesM-0" value="&lt;h1&gt;Solicitar SIM - Aplicación Web - Con Token&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;Arquitectura de Referencia&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-4600" y="-6560" width="700" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2Rxm5Ow7ME32HjApEesM-4" value="Generar Token" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=classic;startFill=1;dashed=1;exitX=0.514;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="2Rxm5Ow7ME32HjApEesM-1" target="2Rxm5Ow7ME32HjApEesM-3">
           <mxGeometry relative="1" as="geometry" />
