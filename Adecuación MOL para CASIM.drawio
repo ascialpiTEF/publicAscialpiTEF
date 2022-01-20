@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T16:25:48.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="i7KJ1Zvruf0KLOEkzAsI" version="16.4.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-20T16:39:58.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="PPxouvVhSA4Frjn7DRh_" version="16.4.2" type="github" pages="5">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1325,10 +1325,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8M7UeCELgKr0PEw2Kh8L-0" value="MOL (CECs y Agentes Oficiales)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-4050" y="-5740" width="340" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="VlOPUO3MeESsUOaKv7_d-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;dashed=1;exitX=0.155;exitY=0.442;exitDx=0;exitDy=0;exitPerimeter=0;" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2" target="l5a7VFt5FFNr_76gO0MV-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-4160" y="-5740" width="450" height="720" as="geometry" />
         </mxCell>
         <mxCell id="kmZq8gAElq6VA_1enxDR-0" value="Web Browser" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-3955" y="-5660" width="130" height="150" as="geometry" />
@@ -1343,16 +1340,10 @@
           <mxGeometry x="-4370" y="-5615" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l5a7VFt5FFNr_76gO0MV-1" value="RPC" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-4020" y="-5450" width="100" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="navX5w5eUGOlw8gwXBdI-14" value="Consultar Nombre de MOL" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2" target="navX5w5eUGOlw8gwXBdI-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-4130" y="-5405" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l5a7VFt5FFNr_76gO0MV-2" value="API de Mol" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-3880" y="-5450" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="navX5w5eUGOlw8gwXBdI-13" value="Determinar MOL" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="kmZq8gAElq6VA_1enxDR-0" target="l5a7VFt5FFNr_76gO0MV-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-3935" y="-5405" width="125" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-8" value="Obtener Cant &lt;br&gt;Max SIM x Cliente para Validar" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=12;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="JjF0O4iSuW4rj4Z8HxCp-9" target="JjF0O4iSuW4rj4Z8HxCp-7" edge="1">
           <mxGeometry x="0.3083" y="7" relative="1" as="geometry">
@@ -1368,7 +1359,7 @@
           <mxGeometry x="-3400" y="-5670" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-7" value="Servicio Identificador &lt;br&gt;de MOL" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-3955" y="-5290" width="170" height="90" as="geometry" />
+          <mxGeometry x="-3955" y="-5215" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NKEGWkPaEWzr4u_hiHoq-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-10" target="NKEGWkPaEWzr4u_hiHoq-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1377,7 +1368,7 @@
           <mxGeometry x="-2670" y="-5150" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-12" value="El MOL levanta y actualiza el registro de MOL&lt;br&gt;El Servicio Identificador de MOL 2 debería cumplir al menos las siguientes funcionalidades:&lt;br&gt;- Conseguir la IP del MOL y asociarla al nombre.&lt;br&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-4050" y="-5080" width="320" height="180" as="geometry" />
+          <mxGeometry x="-4050" y="-4980" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-20" value="Condición: Esto solo sucede al iniciarse o reiniciarse el MOL" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-3590" y="-5260" width="150" height="60" as="geometry" />
@@ -1389,7 +1380,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-0" value="Responsable MOL" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-4360" y="-5270" width="30" height="60" as="geometry" />
+          <mxGeometry x="-4360" y="-5200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-7" value="Registro de Operaciones" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-2660" y="-5405" width="100" height="80" as="geometry" />
@@ -1456,14 +1447,14 @@
             <mxPoint x="-3620" y="-5495" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=1.007;exitY=0.552;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2">
+        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3580" y="-5495" as="sourcePoint" />
-            <mxPoint x="-3730" y="-5400" as="targetPoint" />
+            <mxPoint x="-3810" y="-5359" as="sourcePoint" />
+            <mxPoint x="-3776.09" y="-5358.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-3734" y="-5405" width="10" height="10" as="geometry" />
+        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-3779" y="-5364" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="D-I8cUQ-V6vVWp7UxZBj-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Validar Reglas de Negocio &lt;br&gt;(DNI, Género,&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;FechaNacimiento, Token)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="D-I8cUQ-V6vVWp7UxZBj-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
           <mxGeometry x="0.1389" y="35" relative="1" as="geometry">
@@ -1570,6 +1561,48 @@
         </mxCell>
         <mxCell id="4bJ-uHS5NnVbROrsyJxm-5" value="&lt;font color=&quot;#ff0000&quot;&gt;¿Es necesario el API GW aquí?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-3240" y="-6020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pcBFSk5gROoCGliqUs3w-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Consultar Nombre de MOL&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fontColor=#FF0000;exitX=0.566;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" target="pcBFSk5gROoCGliqUs3w-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3860" y="-5375" as="sourcePoint" />
+            <mxPoint x="-3825" y="-5310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcBFSk5gROoCGliqUs3w-5" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-3835" y="-5260" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pcBFSk5gROoCGliqUs3w-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;fontSize=12;fontColor=#FF0000;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.718;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-7" target="pcBFSk5gROoCGliqUs3w-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3832.94" y="-5213.38" as="sourcePoint" />
+            <mxPoint x="-3830" y="-5280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Determinar MOL&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;fontColor=#FF0000;" edge="1" target="S09cRYdnJaNtdj4i0LUI-2" parent="dyHchjEDI-KX5ttm1uXN-1" source="kmZq8gAElq6VA_1enxDR-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3820" y="-5475" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fontColor=#FF0000;exitX=0.862;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3780" y="-5475" as="sourcePoint" />
+            <mxPoint x="-3801" y="-5450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-3806" y="-5456" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;fontColor=#FF0000;fillColor=#f5f5f5;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="S09cRYdnJaNtdj4i0LUI-17" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3991" y="-5375" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;entryX=0.5;entryY=0.5;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fontColor=#FF0000;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.1;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="S09cRYdnJaNtdj4i0LUI-17" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3951" y="-5375" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-17" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-3980" y="-5360" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
