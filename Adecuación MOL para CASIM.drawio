@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T16:00:36.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="chxjG9tOCXzIQUwfUeJs" version="16.4.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-20T16:09:25.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="uDVGsfwxvE3NA8KGROLP" version="16.4.2" type="github" pages="5">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -273,7 +273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="agNBGVIAfF7G_Vn-ePEa" name="Arquitectura de Referencia-Desktop-Sin-Token">
-    <mxGraphModel dx="1729" dy="7423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="7247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="5eayR_HnQmOS0voMf0e5-0" />
         <mxCell id="5eayR_HnQmOS0voMf0e5-1" parent="5eayR_HnQmOS0voMf0e5-0" />
@@ -1292,7 +1292,7 @@
         <mxCell id="XNrpameFY4HfrGsqWHfB-42" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Obtener Token para Validar&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=15;startArrow=none;startFill=0;" parent="XNrpameFY4HfrGsqWHfB-1" source="XNrpameFY4HfrGsqWHfB-43" target="XNrpameFY4HfrGsqWHfB-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XNrpameFY4HfrGsqWHfB-43" value="Registro de Tokens" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="XNrpameFY4HfrGsqWHfB-1" vertex="1">
+        <mxCell id="XNrpameFY4HfrGsqWHfB-43" value="Registro Temporal de Tokens" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="XNrpameFY4HfrGsqWHfB-1" vertex="1">
           <mxGeometry x="-2785" y="-5730" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NnnZuhZCP5eNUJijpbL1-0" value="&lt;font style=&quot;font-size: 15px&quot;&gt;NOTA: La alternativa sin Token difiere en que no se requiere afectar la Web/APP Mi Movistar y no se utilizará un Token para validar. Directamente se validará DNI+Género+Fecha de Nacimiento&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="XNrpameFY4HfrGsqWHfB-1" vertex="1">
@@ -1310,7 +1310,7 @@
           <mxGeometry x="-4045" y="-6130" width="310" height="280" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-16" value="Backend Digital MOL" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2980" y="-5900" width="310" height="750" as="geometry" />
+          <mxGeometry x="-2980" y="-5900" width="450" height="750" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-1" value="Web Server MOL" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-3480" y="-5740" width="450" height="270" as="geometry" />
@@ -1348,16 +1348,15 @@
         <mxCell id="navX5w5eUGOlw8gwXBdI-13" value="Determinar MOL" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="kmZq8gAElq6VA_1enxDR-0" target="l5a7VFt5FFNr_76gO0MV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JjF0O4iSuW4rj4Z8HxCp-8" value="Validar Cant &lt;br&gt;Max SIM x Cliente" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="JjF0O4iSuW4rj4Z8HxCp-9" target="JjF0O4iSuW4rj4Z8HxCp-7" edge="1">
+        <mxCell id="JjF0O4iSuW4rj4Z8HxCp-8" value="Obtener Cant &lt;br&gt;Max SIM x Cliente para Validar" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=12;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="JjF0O4iSuW4rj4Z8HxCp-9" target="JjF0O4iSuW4rj4Z8HxCp-7" edge="1">
           <mxGeometry x="0.3083" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Rxm5Ow7ME32HjApEesM-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Validar Reglas de Negocio (DNI, Género, &lt;br&gt;FechaNacimiento, Token)&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.136;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;startArrow=classic;startFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5" target="JjF0O4iSuW4rj4Z8HxCp-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2Rxm5Ow7ME32HjApEesM-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Registrar Operación (DNI, ICCID, IP MOL, etc.)&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;dashed=1;fontSize=15;startArrow=classic;startFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5" target="JjF0O4iSuW4rj4Z8HxCp-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2Rxm5Ow7ME32HjApEesM-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Registrar Operación &lt;br&gt;(DNI, ICCID, IP MOL, etc.)&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.028;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="HlhuDb-43XhzZscNIdu_-0" target="JjF0O4iSuW4rj4Z8HxCp-7" edge="1">
+          <mxGeometry x="-0.1023" y="-56" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-5" value="Aplicación MOL" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-3400" y="-5670" width="130" height="150" as="geometry" />
@@ -1402,7 +1401,7 @@
           <mxGeometry x="-2450" y="-5630" width="310" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-7" value="Registro de Operaciones" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2885" y="-5415" width="100" height="80" as="geometry" />
+          <mxGeometry x="-2660" y="-5405" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-9" value="Motor Validador &lt;br&gt;de Reglas" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-2900" y="-5580" width="130" height="70" as="geometry" />
@@ -1413,7 +1412,7 @@
         <mxCell id="2Rxm5Ow7ME32HjApEesM-0" value="&lt;h1&gt;Solicitar SIM - Aplicación Web - Con Token&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;Arquitectura de Referencia&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-4600" y="-6560" width="700" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2Rxm5Ow7ME32HjApEesM-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="2Rxm5Ow7ME32HjApEesM-3" target="2Rxm5Ow7ME32HjApEesM-5" edge="1">
+        <mxCell id="2Rxm5Ow7ME32HjApEesM-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Registrar Token&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="2Rxm5Ow7ME32HjApEesM-3" target="2Rxm5Ow7ME32HjApEesM-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Rxm5Ow7ME32HjApEesM-3" value="Generador de Token" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
@@ -1422,8 +1421,8 @@
         <mxCell id="2Rxm5Ow7ME32HjApEesM-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Obtener Token para Validar&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=15;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="2Rxm5Ow7ME32HjApEesM-5" target="JjF0O4iSuW4rj4Z8HxCp-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Rxm5Ow7ME32HjApEesM-5" value="Registro de Tokens" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2810" y="-5720" width="100" height="80" as="geometry" />
+        <mxCell id="2Rxm5Ow7ME32HjApEesM-5" value="Registro Temporal de Tokens" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
+          <mxGeometry x="-2805" y="-5710" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NWf17ra76cJhuSej3P_b-0" value="&lt;font style=&quot;font-size: 15px&quot;&gt;NOTA: La alternativa sin Token difiere en que no se requiere afectar la Web/APP Mi Movistar y no se utilizará un Token para validar. Directamente se validará DNI+Género+Fecha de Nacimiento&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-4600" y="-6360" width="700" height="150" as="geometry" />
@@ -1473,6 +1472,37 @@
         </mxCell>
         <mxCell id="D-I8cUQ-V6vVWp7UxZBj-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-3734" y="-5405" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Validar Reglas de Negocio (DNI, Género,&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;FechaNacimiento, Token)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="D-I8cUQ-V6vVWp7UxZBj-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3140" y="-5635" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.115;exitY=0.465;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="JjF0O4iSuW4rj4Z8HxCp-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3100" y="-5635" as="sourcePoint" />
+            <mxPoint x="-2920" y="-5547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-5" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-2926" y="-5552" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="HlhuDb-43XhzZscNIdu_-0" value="Servicio &lt;br&gt;Registrador &lt;br&gt;de Operaciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-2872" y="-5405" width="152" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HlhuDb-43XhzZscNIdu_-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Registrar Operación (DNI, ICCID, IP MOL, etc.)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.995;exitY=0.722;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="HlhuDb-43XhzZscNIdu_-3" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2790" y="-5385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HlhuDb-43XhzZscNIdu_-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.107;exitY=0.455;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2855.736" y="-5371.15" as="sourcePoint" />
+            <mxPoint x="-2892" y="-5371.181818181818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HlhuDb-43XhzZscNIdu_-3" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-2899" y="-5377" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
