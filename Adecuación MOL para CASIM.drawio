@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T16:40:57.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ToYbRgb3sXwuVBIz1On2" version="16.4.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-20T17:02:00.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="LlhQaF2a-U25INAXfaz7" version="16.4.2" type="github" pages="5">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1302,7 +1302,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bgNX3_kKcuwJgOPpdPji" name="Arquitectura-Referencia-Web-Con-Token">
-    <mxGraphModel dx="5257" dy="6908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6410" dy="7524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="dyHchjEDI-KX5ttm1uXN-0" />
         <mxCell id="dyHchjEDI-KX5ttm1uXN-1" parent="dyHchjEDI-KX5ttm1uXN-0" />
@@ -1316,10 +1316,10 @@
           <mxGeometry x="-4045" y="-6130" width="310" height="280" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-16" value="Backend Digital MOL" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2980" y="-5980" width="480" height="1010" as="geometry" />
+          <mxGeometry x="-2980" y="-5980" width="480" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-1" value="Web Server MOL" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-3480" y="-5740" width="450" height="270" as="geometry" />
+          <mxGeometry x="-3480" y="-5740" width="450" height="400" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-19" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Expender Tarjeta&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="8M7UeCELgKr0PEw2Kh8L-0" target="LNIAEHTU1DHY7qQNni-4-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1328,7 +1328,7 @@
           <mxGeometry x="-4160" y="-5740" width="450" height="720" as="geometry" />
         </mxCell>
         <mxCell id="kmZq8gAElq6VA_1enxDR-0" value="Web Browser" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-3955" y="-5660" width="130" height="150" as="geometry" />
+          <mxGeometry x="-3955" y="-5660" width="155" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LNIAEHTU1DHY7qQNni-4-1" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Solicitar SIM (DNI, Género, &lt;br&gt;FechaNacimiento, Token)&lt;/span&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="LNIAEHTU1DHY7qQNni-4-0" target="kmZq8gAElq6VA_1enxDR-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1350,31 +1350,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Rxm5Ow7ME32HjApEesM-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Registrar Operación &lt;br&gt;(DNI, ICCID, IP MOL, etc.)&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.028;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="HlhuDb-43XhzZscNIdu_-0" target="JjF0O4iSuW4rj4Z8HxCp-7" edge="1">
-          <mxGeometry x="-0.1023" y="-56" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-5" value="Aplicación MOL" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-3400" y="-5670" width="130" height="150" as="geometry" />
+          <mxGeometry x="-3360" y="-5670" width="210" height="280" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-7" value="Servicio Identificador &lt;br&gt;de MOL" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-3955" y="-5215" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NKEGWkPaEWzr4u_hiHoq-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-10" target="NKEGWkPaEWzr4u_hiHoq-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NKEGWkPaEWzr4u_hiHoq-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-10" target="NKEGWkPaEWzr4u_hiHoq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2578" y="-5088.7359410147465" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-10" value="Registro de Datos de MOLs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2670" y="-5150" width="100" height="80" as="geometry" />
+          <mxGeometry x="-2630" y="-5063.74" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="navX5w5eUGOlw8gwXBdI-12" value="El MOL levanta y actualiza el registro de MOL&lt;br&gt;El Servicio Identificador de MOL 2 debería cumplir al menos las siguientes funcionalidades:&lt;br&gt;- Conseguir la IP del MOL y asociarla al nombre.&lt;br&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-4050" y="-4980" width="320" height="180" as="geometry" />
+        <mxCell id="navX5w5eUGOlw8gwXBdI-12" value="Al iniciarse o reiniciarse, el MOL actualiza el registro de Datos." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
+          <mxGeometry x="-4160" y="-4980" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-20" value="Condición: Esto solo sucede al iniciarse o reiniciarse el MOL" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-3590" y="-5260" width="150" height="60" as="geometry" />
+          <mxGeometry x="-3390" y="-5131" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="navX5w5eUGOlw8gwXBdI-23" value="Definir qué conviene hacer técnicamente para asegurar el expendio de la SIM y el registro de la operación (Analizar tecnologías como Colas de mensajería por ejemplo)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-3670" y="-5435" width="260" height="120" as="geometry" />
+          <mxGeometry x="-3680" y="-5572" width="169" height="142" as="geometry" />
         </mxCell>
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-1" value="Iniciar/Reiniciar MOL" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.793;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="dyHchjEDI-KX5ttm1uXN-1" source="JjF0O4iSuW4rj4Z8HxCp-0" target="8M7UeCELgKr0PEw2Kh8L-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1383,13 +1380,13 @@
           <mxGeometry x="-4360" y="-5200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-7" value="Registro de Operaciones" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2660" y="-5405" width="100" height="80" as="geometry" />
+          <mxGeometry x="-2650" y="-5440" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JjF0O4iSuW4rj4Z8HxCp-9" value="Motor Validador &lt;br&gt;de Reglas" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2900" y="-5580" width="130" height="70" as="geometry" />
+          <mxGeometry x="-2830" y="-5578" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JjF0O4iSuW4rj4Z8HxCp-10" value="Averiguar con PowerConsultant y Fer cómo funciona el aviso de bajo nivel de tarjetas. A priori pensamos que debería ejecutarse antes que el Cliente ingrese cualquier dato. Quizá un proceso background que revise periódicamente y ponga fuera de servicio al MOL." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-3570" y="-5070" width="290" height="160" as="geometry" />
+        <mxCell id="JjF0O4iSuW4rj4Z8HxCp-10" value="Averiguar con PowerConsultant / Especialista de IT cómo funciona el aviso de bajo nivel de tarjetas. A priori pensamos que debería ejecutarse antes que el Cliente ingrese cualquier dato. Quizá un proceso background que revise periódicamente y ponga fuera de servicio al MOL." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
+          <mxGeometry x="-3959" y="-4980" width="249" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2Rxm5Ow7ME32HjApEesM-0" value="&lt;h1&gt;Solicitar SIM - Aplicación Web - Con Token&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;Arquitectura de Referencia&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-4600" y="-6560" width="700" height="160" as="geometry" />
@@ -1398,13 +1395,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Rxm5Ow7ME32HjApEesM-3" value="Generador de Token" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2894" y="-5870" width="180" height="70" as="geometry" />
+          <mxGeometry x="-2830" y="-5860" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2Rxm5Ow7ME32HjApEesM-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Obtener Token para Validar&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=15;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="2Rxm5Ow7ME32HjApEesM-5" target="JjF0O4iSuW4rj4Z8HxCp-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Rxm5Ow7ME32HjApEesM-5" value="Registro Temporal de Tokens" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
-          <mxGeometry x="-2805" y="-5710" width="100" height="80" as="geometry" />
+          <mxGeometry x="-2690" y="-5720" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NWf17ra76cJhuSej3P_b-0" value="&lt;font style=&quot;font-size: 15px&quot;&gt;NOTA: La alternativa sin Token difiere en que no se requiere afectar la Web/APP Mi Movistar y no se utilizará un Token para validar. Directamente se validará DNI+Género+Fecha de Nacimiento&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="dyHchjEDI-KX5ttm1uXN-1" vertex="1">
           <mxGeometry x="-4600" y="-6360" width="700" height="150" as="geometry" />
@@ -1422,12 +1419,12 @@
         </mxCell>
         <mxCell id="rsE4_o5W3rjXEq_Tsghk-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;entryX=0.5;entryY=0.5;endSize=6;strokeWidth=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2878" y="-5835" as="sourcePoint" />
-            <mxPoint x="-2943" y="-5835" as="targetPoint" />
+            <mxPoint x="-2813" y="-5827" as="sourcePoint" />
+            <mxPoint x="-2878" y="-5827" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rsE4_o5W3rjXEq_Tsghk-4" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-2950" y="-5840" width="10" height="10" as="geometry" />
+          <mxGeometry x="-2885" y="-5832" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="rsE4_o5W3rjXEq_Tsghk-9" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Ejecutar Aplicación (Nombre de MOL)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.995;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="rsE4_o5W3rjXEq_Tsghk-11" parent="dyHchjEDI-KX5ttm1uXN-1" source="kmZq8gAElq6VA_1enxDR-0">
           <mxGeometry relative="1" as="geometry">
@@ -1436,15 +1433,15 @@
         </mxCell>
         <mxCell id="rsE4_o5W3rjXEq_Tsghk-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;entryX=0.5;entryY=0.5;endSize=6;strokeWidth=1;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="rsE4_o5W3rjXEq_Tsghk-11" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3384" y="-5606" as="sourcePoint" />
+            <mxPoint x="-3345" y="-5606" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rsE4_o5W3rjXEq_Tsghk-11" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-3409" y="-5611" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-0" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Expender Tarjeta (IP MOL) return ICCID)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.126;exitY=0.836;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="D-I8cUQ-V6vVWp7UxZBj-2" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
+        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-0" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Expender Tarjeta (IP MOL) return ICCID)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fillColor=#fff2cc;strokeColor=#d6b656;exitX=0.074;exitY=0.864;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="D-I8cUQ-V6vVWp7UxZBj-2" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3620" y="-5495" as="sourcePoint" />
+            <mxPoint x="-3380" y="-5560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D-I8cUQ-V6vVWp7UxZBj-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1">
@@ -1456,7 +1453,7 @@
         <mxCell id="D-I8cUQ-V6vVWp7UxZBj-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-3779" y="-5364" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Validar Reglas de Negocio &lt;br&gt;(DNI, Género,&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;FechaNacimiento, Token)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="D-I8cUQ-V6vVWp7UxZBj-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
+        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Validar Reglas de Negocio &lt;br&gt;(DNI, Género,&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;FechaNacimiento, Token)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fillColor=#fff2cc;strokeColor=#d6b656;exitX=1.002;exitY=0.442;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="D-I8cUQ-V6vVWp7UxZBj-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
           <mxGeometry x="0.1389" y="35" relative="1" as="geometry">
             <mxPoint x="-3140" y="-5635" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -1472,7 +1469,7 @@
           <mxGeometry x="-2926" y="-5552" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HlhuDb-43XhzZscNIdu_-0" value="Servicio &lt;br&gt;Registrador &lt;br&gt;de Operaciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-2872" y="-5405" width="152" height="70" as="geometry" />
+          <mxGeometry x="-2830" y="-5305" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HlhuDb-43XhzZscNIdu_-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Registrar Operación &lt;br&gt;(DNI, ICCID, IP MOL, etc.)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.995;exitY=0.722;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="HlhuDb-43XhzZscNIdu_-3" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
           <mxGeometry relative="1" as="geometry">
@@ -1481,47 +1478,49 @@
         </mxCell>
         <mxCell id="HlhuDb-43XhzZscNIdu_-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.107;exitY=0.455;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2855.736" y="-5371.15" as="sourcePoint" />
-            <mxPoint x="-2892" y="-5371.181818181818" as="targetPoint" />
+            <mxPoint x="-2813.736" y="-5271.15" as="sourcePoint" />
+            <mxPoint x="-2850" y="-5271.181818181818" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HlhuDb-43XhzZscNIdu_-3" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-2899" y="-5377" width="10" height="10" as="geometry" />
+          <mxGeometry x="-2857" y="-5277" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NKEGWkPaEWzr4u_hiHoq-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="NKEGWkPaEWzr4u_hiHoq-0" target="navX5w5eUGOlw8gwXBdI-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NKEGWkPaEWzr4u_hiHoq-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="NKEGWkPaEWzr4u_hiHoq-0" target="navX5w5eUGOlw8gwXBdI-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2636.5" y="-4988.74" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NKEGWkPaEWzr4u_hiHoq-0" value="Servicio &lt;br&gt;Registrador &lt;br&gt;de Datos de MOLs" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-2896" y="-5110" width="152" height="70" as="geometry" />
+          <mxGeometry x="-2835.5" y="-4958.74" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NKEGWkPaEWzr4u_hiHoq-1" value="Servicio &lt;br&gt;de Consulta&lt;br&gt;de Datos de MOLs" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-2899" y="-5200" width="152" height="70" as="geometry" />
+          <mxGeometry x="-2837" y="-5160" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NKEGWkPaEWzr4u_hiHoq-5" value="Registrar Datos de MOL &lt;br&gt;(Nombre_MOL, IP_MOL)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" target="NKEGWkPaEWzr4u_hiHoq-7" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-7">
+        <mxCell id="NKEGWkPaEWzr4u_hiHoq-5" value="Registrar Datos de MOL &lt;br&gt;(ID_MOL, IP_MOL)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" target="NKEGWkPaEWzr4u_hiHoq-7" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2919" y="-5075" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKEGWkPaEWzr4u_hiHoq-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;entryX=0.5;entryY=0.5;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" target="NKEGWkPaEWzr4u_hiHoq-7" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2879" y="-5075" as="sourcePoint" />
+            <mxPoint x="-2818.5" y="-4923.74" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKEGWkPaEWzr4u_hiHoq-7" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-2904" y="-5080" width="10" height="10" as="geometry" />
+          <mxGeometry x="-2843.5" y="-4928.74" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NKEGWkPaEWzr4u_hiHoq-10" value="Obtener Datos de MOL (Nombre_MOL) &lt;br&gt;Return IP_MOL" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="NKEGWkPaEWzr4u_hiHoq-12" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
+        <mxCell id="NKEGWkPaEWzr4u_hiHoq-10" value="Obtener Datos de MOL (ID_MOL) &lt;br&gt;Return IP_MOL" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="NKEGWkPaEWzr4u_hiHoq-12" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2924" y="-5166" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKEGWkPaEWzr4u_hiHoq-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;entryX=0.5;entryY=0.5;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" target="NKEGWkPaEWzr4u_hiHoq-12" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2884" y="-5166" as="sourcePoint" />
+            <mxPoint x="-2822" y="-5126" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKEGWkPaEWzr4u_hiHoq-12" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-2909" y="-5171" width="10" height="10" as="geometry" />
+          <mxGeometry x="-2847" y="-5131" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="r1AGXanQZpwtzD09fG4V-0" value="Full Stack (T3)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-1680" y="-5667" width="260" height="290" as="geometry" />
@@ -1556,13 +1555,13 @@
         <mxCell id="4bJ-uHS5NnVbROrsyJxm-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-2107" y="-5548" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="4bJ-uHS5NnVbROrsyJxm-4" value="&lt;font color=&quot;#ff0000&quot;&gt;¿Es necesario el API GW aquí?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+        <mxCell id="4bJ-uHS5NnVbROrsyJxm-4" value="&lt;font color=&quot;#ff0000&quot;&gt;¿Es necesario el API GW aquí?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-2310" y="-5750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4bJ-uHS5NnVbROrsyJxm-5" value="&lt;font color=&quot;#ff0000&quot;&gt;¿Es necesario el API GW aquí?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+        <mxCell id="4bJ-uHS5NnVbROrsyJxm-5" value="&lt;font color=&quot;#ff0000&quot;&gt;¿Es necesario el API GW aquí?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-3240" y="-6020" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pcBFSk5gROoCGliqUs3w-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Consultar Nombre de MOL&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fontColor=#FF0000;exitX=0.566;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" target="pcBFSk5gROoCGliqUs3w-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2">
+        <mxCell id="pcBFSk5gROoCGliqUs3w-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Consultar Datos de MOL&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fontColor=#FF0000;exitX=0.566;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" target="pcBFSk5gROoCGliqUs3w-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3860" y="-5375" as="sourcePoint" />
             <mxPoint x="-3825" y="-5310" as="targetPoint" />
@@ -1576,20 +1575,6 @@
             <mxPoint x="-3864.71" y="-5214.82" as="sourcePoint" />
             <mxPoint x="-3864.71" y="-5244.001982569488" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="S09cRYdnJaNtdj4i0LUI-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Determinar MOL&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;fontColor=#FF0000;" edge="1" target="S09cRYdnJaNtdj4i0LUI-2" parent="dyHchjEDI-KX5ttm1uXN-1" source="kmZq8gAElq6VA_1enxDR-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3820" y="-5475" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S09cRYdnJaNtdj4i0LUI-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fontColor=#FF0000;exitX=0.862;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3780" y="-5475" as="sourcePoint" />
-            <mxPoint x="-3801" y="-5450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S09cRYdnJaNtdj4i0LUI-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
-          <mxGeometry x="-3806" y="-5456" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="S09cRYdnJaNtdj4i0LUI-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;fontColor=#FF0000;fillColor=#f5f5f5;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="S09cRYdnJaNtdj4i0LUI-17" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-1">
           <mxGeometry relative="1" as="geometry">
@@ -1606,6 +1591,30 @@
         </mxCell>
         <mxCell id="S09cRYdnJaNtdj4i0LUI-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF0000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-7" target="navX5w5eUGOlw8gwXBdI-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-19" value="&lt;font color=&quot;#000000&quot;&gt;Determinar MOL&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;fontColor=#FF0000;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.566;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="S09cRYdnJaNtdj4i0LUI-21" parent="dyHchjEDI-KX5ttm1uXN-1" source="kmZq8gAElq6VA_1enxDR-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3887" y="-5435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;entryX=0.5;entryY=0.5;endSize=6;strokeWidth=1;sketch=0;fontSize=12;fontColor=#FF0000;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.542;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="S09cRYdnJaNtdj4i0LUI-21" parent="dyHchjEDI-KX5ttm1uXN-1" source="l5a7VFt5FFNr_76gO0MV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3847" y="-5435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-21" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-3872" y="-5440" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-22" value="Ejecutar llamada RPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-4005" y="-5405" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Rxm5Ow7ME32HjApEesM-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Registrar Operación &lt;br&gt;(DNI, ICCID, IP MOL, etc.)&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.446;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=15;startArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dyHchjEDI-KX5ttm1uXN-1" source="HlhuDb-43XhzZscNIdu_-0" target="JjF0O4iSuW4rj4Z8HxCp-7" edge="1">
+          <mxGeometry x="-0.6522" y="31" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S09cRYdnJaNtdj4i0LUI-26" value="&lt;span&gt;El Servicio Identificador de MOL 2 debería cumplir al menos las siguientes funcionalidades:&lt;/span&gt;&lt;br&gt;&lt;span&gt;1) Al iniciar o reiniciar MOL: Obtener la IP del MOL y asociarla al ID del MOL.&lt;br&gt;2) Cuando el Cliente solicita una SIM: Obtener la IP del MOL y proporcionarla al invocante.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
+          <mxGeometry x="-3690" y="-5305" width="265" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
