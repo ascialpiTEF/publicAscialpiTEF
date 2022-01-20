@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T16:24:59.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="s0NOyaNKDa5HOuv3soZ1" version="16.4.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-20T16:25:48.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="i7KJ1Zvruf0KLOEkzAsI" version="16.4.2" type="github" pages="5">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1465,9 +1465,10 @@
         <mxCell id="D-I8cUQ-V6vVWp7UxZBj-2" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-3734" y="-5405" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Validar Reglas de Negocio (DNI, Género,&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;FechaNacimiento, Token)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="D-I8cUQ-V6vVWp7UxZBj-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="D-I8cUQ-V6vVWp7UxZBj-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Validar Reglas de Negocio &lt;br&gt;(DNI, Género,&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;FechaNacimiento, Token)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="D-I8cUQ-V6vVWp7UxZBj-5" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
+          <mxGeometry x="0.1389" y="35" relative="1" as="geometry">
             <mxPoint x="-3140" y="-5635" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D-I8cUQ-V6vVWp7UxZBj-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.115;exitY=0.465;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="dyHchjEDI-KX5ttm1uXN-1" source="JjF0O4iSuW4rj4Z8HxCp-9">
@@ -1482,7 +1483,7 @@
         <mxCell id="HlhuDb-43XhzZscNIdu_-0" value="Servicio &lt;br&gt;Registrador &lt;br&gt;de Operaciones" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dyHchjEDI-KX5ttm1uXN-1">
           <mxGeometry x="-2872" y="-5405" width="152" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HlhuDb-43XhzZscNIdu_-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Registrar Operación (DNI, ICCID, IP MOL, etc.)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.995;exitY=0.722;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="HlhuDb-43XhzZscNIdu_-3" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
+        <mxCell id="HlhuDb-43XhzZscNIdu_-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Registrar Operación &lt;br&gt;(DNI, ICCID, IP MOL, etc.)&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.995;exitY=0.722;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="HlhuDb-43XhzZscNIdu_-3" parent="dyHchjEDI-KX5ttm1uXN-1" source="navX5w5eUGOlw8gwXBdI-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2790" y="-5385" as="sourcePoint" />
           </mxGeometry>
