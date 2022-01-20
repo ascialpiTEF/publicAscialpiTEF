@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T20:39:06.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XBI_KG2KcGTVOJNApGUp" version="16.4.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-20T20:40:12.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WIknptzLcduryrscN_3S" version="16.4.2" type="github" pages="7">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -830,12 +830,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5eqoTZeV_IzIcw6SUI4y" name="Carga y Descarga">
-    <mxGraphModel dx="7785" dy="8050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="9854" dy="9017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tAuZg3OnrLxiV5NNJOs9-0" />
         <mxCell id="tAuZg3OnrLxiV5NNJOs9-1" parent="tAuZg3OnrLxiV5NNJOs9-0" />
         <mxCell id="afc236ASo_ybpTB7aXUL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=none;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
-          <mxGeometry x="-4600" y="-6515" width="4520" height="2115" as="geometry" />
+          <mxGeometry x="-4600" y="-6515" width="3120" height="2115" as="geometry" />
         </mxCell>
         <mxCell id="tAuZg3OnrLxiV5NNJOs9-2" value="&lt;h1&gt;Registrar Carga y Descarga de SIMCards&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;Arquitectura de Referencia&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
           <mxGeometry x="-4520" y="-6440" width="700" height="160" as="geometry" />
