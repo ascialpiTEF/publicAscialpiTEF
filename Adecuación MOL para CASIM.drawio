@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T20:28:59.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="gcZU1V8IN_hHb1MkkPe4" version="16.4.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-20T20:30:20.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nGgkeRjOx8o--HM-Cwxw" version="16.4.2" type="github" pages="7">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
         <mxCell id="tAuZg3OnrLxiV5NNJOs9-2" value="&lt;h1&gt;Registrar Carga y Descarga de SIMCards&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;Arquitectura de Referencia&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
           <mxGeometry x="-4600" y="-6560" width="700" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="SYP_N_WOWLyWit0IaFrI-1" value="Server Backend MOL (Aplicación en Infra de Movistar)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
+        <mxCell id="SYP_N_WOWLyWit0IaFrI-1" value="Backend Digital MOL (Aplicación en Infra de Movistar)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
           <mxGeometry x="-2680" y="-5249" width="760" height="320" as="geometry" />
         </mxCell>
         <mxCell id="SYP_N_WOWLyWit0IaFrI-2" value="Portal de Gestión (Aplicación en Infra de Movistar)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
@@ -969,14 +969,6 @@
       <root>
         <mxCell id="1leQTqXwgHeTAB1V7b67-0" />
         <mxCell id="1leQTqXwgHeTAB1V7b67-1" parent="1leQTqXwgHeTAB1V7b67-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="QX7iXqGrpXa5-xxgGndX" name="Page-7">
-    <mxGraphModel dx="1552" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
-      <root>
-        <mxCell id="pzQhVGlx2HOxxXsTsLs_-0" />
-        <mxCell id="pzQhVGlx2HOxxXsTsLs_-1" parent="pzQhVGlx2HOxxXsTsLs_-0" />
       </root>
     </mxGraphModel>
   </diagram>
