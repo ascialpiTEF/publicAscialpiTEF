@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T18:15:11.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="PsiKCth2y8Lu40DtMN7t" version="16.4.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-20T18:35:24.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sCwQE3IQ9b7_gz2UX2fO" version="16.4.2" type="github" pages="5">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1210" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1183,7 +1183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Arquitectura-Referencia-Desktop-Con Token" id="nBbvxjfIx5fxVR_h6kaO">
-    <mxGraphModel dx="6105" dy="7361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="5689" dy="7139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="XNrpameFY4HfrGsqWHfB-0" />
         <mxCell id="XNrpameFY4HfrGsqWHfB-1" parent="XNrpameFY4HfrGsqWHfB-0" />
@@ -1232,7 +1232,7 @@
           <mxGeometry x="-4050" y="-5080" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XNrpameFY4HfrGsqWHfB-28" value="Definir qué conviene hacer técnicamente para asegurar el expendio de la SIM y el registro de la operación" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="XNrpameFY4HfrGsqWHfB-1" vertex="1">
-          <mxGeometry x="-3680" y="-5470" width="150" height="120" as="geometry" />
+          <mxGeometry x="-3705" y="-5220" width="235" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XNrpameFY4HfrGsqWHfB-34" value="Registro de Operaciones" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="XNrpameFY4HfrGsqWHfB-1" vertex="1">
           <mxGeometry x="-2720" y="-5390" width="100" height="80" as="geometry" />
@@ -1414,7 +1414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bgNX3_kKcuwJgOPpdPji" name="Arquitectura-Referencia-Web-Con-Token">
-    <mxGraphModel dx="5689" dy="7139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6105" dy="7361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="dyHchjEDI-KX5ttm1uXN-0" />
         <mxCell id="dyHchjEDI-KX5ttm1uXN-1" parent="dyHchjEDI-KX5ttm1uXN-0" />
