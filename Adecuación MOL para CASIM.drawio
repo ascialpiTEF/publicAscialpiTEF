@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T14:00:58.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8pgwPxQVv9Na1h0jHjIG" version="16.4.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-21T14:06:00.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WmX8quyRudJU1kJ3TEjg" version="16.4.2" type="github" pages="8">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1323" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -273,36 +273,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SunV_P81vFdWqcZCrQGd" name="High Level Architecture">
-    <mxGraphModel dx="1323" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-0" />
         <mxCell id="-d7CY-rbuwLmaS6KV37E-1" parent="-d7CY-rbuwLmaS6KV37E-0" />
         <mxCell id="BWq6BjVywhP84MkWbOLU-0" value="Infraestructura de Integración y Seguridad" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="2430" y="200" width="240" height="470" as="geometry" />
+          <mxGeometry x="2470" y="240" width="240" height="470" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-8" value="TEF - Ecosistema MOL" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="1420" y="200" width="570" height="470" as="geometry" />
+          <mxGeometry x="1460" y="240" width="570" height="470" as="geometry" />
         </mxCell>
         <mxCell id="w-pklN0zbJiBeohGYiLf-11" value="TEF - Full Stack" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="2730" y="200" width="240" height="470" as="geometry" />
+          <mxGeometry x="2770" y="240" width="240" height="470" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-12" value="Infraestructura de Integración y Seguridad" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="1061" y="200" width="240" height="840" as="geometry" />
+          <mxGeometry x="1101" y="240" width="240" height="840" as="geometry" />
         </mxCell>
         <mxCell id="2IbH1qqLJj4_WKTeocJx-0" value="Expender SIM&lt;br&gt;¿Entregar Comprobante?" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;exitX=0.803;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="476.25" y="578.5600000000002" as="sourcePoint" />
-            <mxPoint x="230" y="520" as="targetPoint" />
+            <mxPoint x="516.25" y="618.5600000000002" as="sourcePoint" />
+            <mxPoint x="270" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-5" value="MOL (CEC/Agentes)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="580" y="200" width="350" height="520" as="geometry" />
+          <mxGeometry x="620" y="240" width="350" height="520" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#666666;fillColor=#f5f5f5;dashed=1;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-6" target="-d7CY-rbuwLmaS6KV37E-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-6" value="Web Broswer" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="680" y="300" width="150" height="50" as="geometry" />
+          <mxGeometry x="720" y="340" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-17" value="Registrar Carga de Tarjetas&lt;br&gt;Validar Reglas de Negocio&lt;br&gt;Registrar Operación" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-7" target="-d7CY-rbuwLmaS6KV37E-16">
           <mxGeometry relative="1" as="geometry" />
@@ -311,47 +311,47 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-7" value="Aplicación Desktop" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="680" y="385" width="150" height="50" as="geometry" />
+          <mxGeometry x="720" y="425" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w-pklN0zbJiBeohGYiLf-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-9" target="-d7CY-rbuwLmaS6KV37E-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-9" value="Web App de Solicitud &#xa;y Expendio" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="1741" y="300" width="150" height="50" as="geometry" />
+          <mxGeometry x="1781" y="340" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-15" value="Expender Simcard" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-16" target="-d7CY-rbuwLmaS6KV37E-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hK7GYCq0-X5FIAT8xGGL-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#d6b656;entryX=1.023;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;dashed=1;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-10" target="-d7CY-rbuwLmaS6KV37E-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1591" y="478.9473684210527" as="targetPoint" />
+            <mxPoint x="1631" y="518.9473684210527" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-10" value="Gestión de Configuración" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="1741" y="460" width="150" height="50" as="geometry" />
+          <mxGeometry x="1781" y="500" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-14" value="Configurar MOL&lt;br&gt;Consultar Estado de MOL" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.037;exitY=0.819;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-16" target="-d7CY-rbuwLmaS6KV37E-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hK7GYCq0-X5FIAT8xGGL-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#d6b656;fillColor=#fff2cc;dashed=1;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-11" target="-d7CY-rbuwLmaS6KV37E-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1591" y="514.4736842105265" as="targetPoint" />
+            <mxPoint x="1631" y="554.4736842105265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-11" value="Gestión de Operación" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="1747" y="565" width="150" height="50" as="geometry" />
+          <mxGeometry x="1787" y="605" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BWq6BjVywhP84MkWbOLU-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=none;fontSize=12;fontColor=#0000FF;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-13" target="BWq6BjVywhP84MkWbOLU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-13" value="API" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="680" y="510" width="150" height="50" as="geometry" />
+          <mxGeometry x="720" y="550" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w-pklN0zbJiBeohGYiLf-13" value="Validar Cliente" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#d6b656;exitX=0.913;exitY=0.326;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;dashed=1;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="-d7CY-rbuwLmaS6KV37E-16" target="w-pklN0zbJiBeohGYiLf-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-d7CY-rbuwLmaS6KV37E-16" value="Backend Digital MOL" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="1523" y="360" width="150" height="230" as="geometry" />
+          <mxGeometry x="1563" y="400" width="150" height="230" as="geometry" />
         </mxCell>
         <mxCell id="IWew04qvIXv-BsdWRJCC-2" value="Solicitar SIM (Alternativa 1)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=10;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="IWew04qvIXv-BsdWRJCC-1" target="-d7CY-rbuwLmaS6KV37E-6">
           <mxGeometry relative="1" as="geometry" />
@@ -360,13 +360,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IWew04qvIXv-BsdWRJCC-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="188" y="480" width="30" height="60" as="geometry" />
+          <mxGeometry x="228" y="520" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="myRCFvkbdc7P5GG8xJht-2" value="Configurar Parámetros de MOL&lt;br&gt;Consultar Parámetros de MOL&lt;br&gt;Configurar Umbral Cantidad Mínima de Tarjetas&lt;br&gt;Configurar Cantidad de Operaciones permitidas por DNI por Día" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="myRCFvkbdc7P5GG8xJht-0" target="-d7CY-rbuwLmaS6KV37E-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="myRCFvkbdc7P5GG8xJht-0" value="Gestor de Configuraciones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="2271" y="455" width="30" height="60" as="geometry" />
+          <mxGeometry x="2311" y="495" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hK7GYCq0-X5FIAT8xGGL-2" value="&lt;font color=&quot;#0000ff&quot;&gt;Registrar Carga/Descarga de Tarjetas (Alternativa 2)&lt;br&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;- Configurar Parámetros de MOL&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;- Consultar Parámetros de MOL&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;- Configurar Umbral Cantidad Mínima de Tarjetas&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;-&amp;nbsp;Realizar test de estado del MOL.&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;-&amp;nbsp;Realizar test de lector de código de barras.&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;-&amp;nbsp;Reiniciar MOL.&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;-&amp;nbsp;Salir a Windows.&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#0000FF;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="hK7GYCq0-X5FIAT8xGGL-1" target="-d7CY-rbuwLmaS6KV37E-7">
           <mxGeometry x="-0.5575" y="-87" relative="1" as="geometry">
@@ -379,42 +379,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hK7GYCq0-X5FIAT8xGGL-1" value="&lt;font color=&quot;#001933&quot;&gt;Responsable MOL&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="188" y="200" width="30" height="60" as="geometry" />
+          <mxGeometry x="228" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-pklN0zbJiBeohGYiLf-3" value="Consultar Operaciones&lt;br&gt;Consultar Estado de MOLs" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="w-pklN0zbJiBeohGYiLf-0" target="-d7CY-rbuwLmaS6KV37E-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w-pklN0zbJiBeohGYiLf-0" value="Gestor Operativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="2271" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="2311" y="600" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-pklN0zbJiBeohGYiLf-12" value="CRM" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="2760" y="410" width="150" height="50" as="geometry" />
+          <mxGeometry x="2800" y="450" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BWq6BjVywhP84MkWbOLU-3" value="RPC" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="680" y="610" width="150" height="50" as="geometry" />
+          <mxGeometry x="720" y="650" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jiA5HDuMl-_yWZmSP3pp-1" value="&lt;h1&gt;Adecuación MOLs para CASIM&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Arquitectura de Referencia&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;Diagrama de Nivel 0&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="40" y="40" width="390" height="120" as="geometry" />
+        <mxCell id="jiA5HDuMl-_yWZmSP3pp-1" value="&lt;h1&gt;Adecuación MOLs para CASIM&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Arquitectura de Referencia&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;Diagrama Nivel 0&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
+          <mxGeometry x="80" y="80" width="390" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MqkU-ucohWIN4j5PSJjT-0" value="APP/Web Mi Movistar" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="580" y="760" width="350" height="280" as="geometry" />
+          <mxGeometry x="620" y="800" width="350" height="280" as="geometry" />
         </mxCell>
         <mxCell id="sY9oRoU6PGVDXqVO654S-1" value="Generar Token" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" source="MqkU-ucohWIN4j5PSJjT-1" target="-d7CY-rbuwLmaS6KV37E-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MqkU-ucohWIN4j5PSJjT-1" value="Web App &lt;br&gt;Solicitud de &lt;br&gt;Token para &lt;br&gt;Retirar Simcard" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-d7CY-rbuwLmaS6KV37E-1">
-          <mxGeometry x="645" y="825" width="150" height="150" as="geometry" />
+          <mxGeometry x="685" y="865" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="sY9oRoU6PGVDXqVO654S-0" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;Obtener Token&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.107;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontSize=16;fontColor=#0000FF;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="-d7CY-rbuwLmaS6KV37E-1" target="MqkU-ucohWIN4j5PSJjT-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="530" as="sourcePoint" />
+            <mxPoint x="270" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Arquitectura-Referencia-Desktop-Con Token" id="nBbvxjfIx5fxVR_h6kaO">
-    <mxGraphModel dx="5593" dy="7084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6237" dy="7426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="XNrpameFY4HfrGsqWHfB-0" />
         <mxCell id="XNrpameFY4HfrGsqWHfB-1" parent="XNrpameFY4HfrGsqWHfB-0" />
