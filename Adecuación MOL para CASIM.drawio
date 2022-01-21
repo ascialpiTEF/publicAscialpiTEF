@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T16:54:06.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zDuhotVvbpC9Pahfq3ch" version="16.4.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-21T17:48:14.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-n181Ktx8c5vHwAimVQY" version="16.4.2" type="github" pages="8">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1323" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Arquitectura-Referencia-Desktop-Con Token" id="nBbvxjfIx5fxVR_h6kaO">
-    <mxGraphModel dx="8461" dy="8389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6886" dy="7770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="XNrpameFY4HfrGsqWHfB-0" />
         <mxCell id="XNrpameFY4HfrGsqWHfB-1" parent="XNrpameFY4HfrGsqWHfB-0" />
@@ -425,10 +425,10 @@
           <mxGeometry x="-4520" y="-6440" width="3680" height="2080" as="geometry" />
         </mxCell>
         <mxCell id="3MCIIe81Kx3QgP3LO_TY-0" value="&lt;font color=&quot;#ff0000&quot;&gt;¿API Gateway?&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="XNrpameFY4HfrGsqWHfB-1">
-          <mxGeometry x="-3000" y="-5765" width="150" height="210" as="geometry" />
+          <mxGeometry x="-3240" y="-5785" width="150" height="210" as="geometry" />
         </mxCell>
         <mxCell id="3MCIIe81Kx3QgP3LO_TY-1" value="&lt;font color=&quot;#ff0000&quot;&gt;¿Es necesario el API GW aquí?&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="XNrpameFY4HfrGsqWHfB-1">
-          <mxGeometry x="-2980" y="-5860" width="120" height="80" as="geometry" />
+          <mxGeometry x="-3220" y="-5880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XNrpameFY4HfrGsqWHfB-2" value="Backend Digital MOL" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XNrpameFY4HfrGsqWHfB-1" vertex="1">
           <mxGeometry x="-2740" y="-5860" width="410" height="1110" as="geometry" />
@@ -492,13 +492,13 @@
           <mxGeometry x="-4360" y="-6070" width="700" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OPvSPFYbL56h0TfeuOxY-2" value="APP/Web Mi Movistar" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XNrpameFY4HfrGsqWHfB-1">
-          <mxGeometry x="-3380" y="-5830" width="310" height="280" as="geometry" />
+          <mxGeometry x="-3620" y="-5850" width="310" height="280" as="geometry" />
         </mxCell>
         <mxCell id="m2TRbm-S1QWEjR3Sebz--0" value="Generar Token" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=halfCircle;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="XNrpameFY4HfrGsqWHfB-1" source="OPvSPFYbL56h0TfeuOxY-3" target="mDlZKH2djQrun73kGVOf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OPvSPFYbL56h0TfeuOxY-3" value="Web App &lt;br&gt;Solicitud de &lt;br&gt;Token para &lt;br&gt;Retirar Simcard" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XNrpameFY4HfrGsqWHfB-1">
-          <mxGeometry x="-3315" y="-5765" width="150" height="150" as="geometry" />
+          <mxGeometry x="-3555" y="-5785" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YIDImgpNxfjxBAzS0ECt-0" value="Registrar Token" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="XNrpameFY4HfrGsqWHfB-1" source="mDlZKH2djQrun73kGVOf-0" target="XNrpameFY4HfrGsqWHfB-43">
           <mxGeometry relative="1" as="geometry" />
@@ -653,7 +653,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bgNX3_kKcuwJgOPpdPji" name="Arquitectura-Referencia-Web-Con-Token">
-    <mxGraphModel dx="7086" dy="7738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="7086" dy="7876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="dyHchjEDI-KX5ttm1uXN-0" />
         <mxCell id="dyHchjEDI-KX5ttm1uXN-1" parent="dyHchjEDI-KX5ttm1uXN-0" />
@@ -979,8 +979,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5eqoTZeV_IzIcw6SUI4y" name="Carga y Descarga">
-    <mxGraphModel dx="6571" dy="7494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+  <diagram id="5eqoTZeV_IzIcw6SUI4y" name="Carga y Descarga de SIMCards">
+    <mxGraphModel dx="6571" dy="7603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tAuZg3OnrLxiV5NNJOs9-0" />
         <mxCell id="tAuZg3OnrLxiV5NNJOs9-1" parent="tAuZg3OnrLxiV5NNJOs9-0" />
