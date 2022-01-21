@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T13:33:52.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ei9aJ42eIK4hgnZ1Xi7h" version="16.4.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-21T13:34:18.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Smt9fr3_2iMyakBK0O5I" version="16.4.2" type="github" pages="8">
   <diagram id="3uvexUEv2xzACubO_73W" name="Casos de Uso">
     <mxGraphModel dx="1323" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -938,7 +938,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5eqoTZeV_IzIcw6SUI4y" name="Carga y Descarga">
-    <mxGraphModel dx="9091" dy="8940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6237" dy="7426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tAuZg3OnrLxiV5NNJOs9-0" />
         <mxCell id="tAuZg3OnrLxiV5NNJOs9-1" parent="tAuZg3OnrLxiV5NNJOs9-0" />
@@ -957,10 +957,10 @@
         <mxCell id="SYP_N_WOWLyWit0IaFrI-3" value="MOL (CECs y Agentes Oficiales)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
           <mxGeometry x="-4040" y="-5920" width="640" height="1320" as="geometry" />
         </mxCell>
-        <mxCell id="SYP_N_WOWLyWit0IaFrI-4" value="Infraestructura de&amp;nbsp;Seguridad Aplicativa &lt;br&gt;para Portal de Gestión" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
+        <mxCell id="SYP_N_WOWLyWit0IaFrI-4" value="Infraestructura de&amp;nbsp;Seguridad Aplicativa &lt;br&gt;para Portal de Gestión" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
           <mxGeometry x="-3158" y="-5747" width="270" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="SYP_N_WOWLyWit0IaFrI-5" value="Infraestructura de Integración + Seguridad &lt;br&gt;MOL &amp;lt;-&amp;gt; Application Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
+        <mxCell id="SYP_N_WOWLyWit0IaFrI-5" value="Infraestructura de Integración + Seguridad &lt;br&gt;MOL &amp;lt;-&amp;gt; Application Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tAuZg3OnrLxiV5NNJOs9-1">
           <mxGeometry x="-3156" y="-5240" width="270" height="320" as="geometry" />
         </mxCell>
         <mxCell id="SYP_N_WOWLyWit0IaFrI-8" value="&lt;font color=&quot;#000000&quot;&gt;Registrar Carga de Tarjetas &lt;br&gt;(WebApp)&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;fontColor=#001933;endArrow=halfCircle;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="tAuZg3OnrLxiV5NNJOs9-1" source="SYP_N_WOWLyWit0IaFrI-73" target="SYP_N_WOWLyWit0IaFrI-41">
